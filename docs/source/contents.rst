@@ -15,8 +15,8 @@ El Suplementador Inteligente posee las siguientes ventajas:
 * **Tomamos mejores decisiones:** El equipo nos da información sobre su desempeño y sobre el comportamiento animal.
 * **Somos más eficientes:** Usamos mejor el alimento, producimos más y tomamos mejores deciiones.
 
-En las primeras secciones puede conocer más sobre el :ref:`Funcionamiento General <funcionamientogeneral>` y las :ref:`Recomendaciones de Uso <recomendacionesuso>`.
-También podrá ver cómo se realiza la :ref:`Programación <programacion>` y ver cómo se generan los :ref:`Reportes <reportes>`.
+En las primeras secciones puede conocer más sobre el :ref:`Funcionamiento General<funcionamientogeneral>` y las :ref:`Recomendaciones de Uso<recomendacionesuso>`.
+También podrá ver cómo se realiza la :ref:`Programación<programacion>` y ver cómo se generan los :ref:`Reportes<reportes>`.
 
 .. figure:: images/suplementador.jpg
    :width: 600
