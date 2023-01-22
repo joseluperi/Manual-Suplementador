@@ -37,3 +37,5 @@ epub_show_urls = 'footnote'
 # -- Options for internationalization
 locale_dirs = ['locale/']   # path is example but recommended.
 gettext_compact = False     # optional.
+
+root_doc = 'contents'
