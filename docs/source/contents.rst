@@ -286,7 +286,7 @@ Para dejar al equipo en funcionamiento, es decir a la espera del ingreso de los 
 Mientras el equipo esté en este modo registrará todos los datos de operación, es decir que para cada animal que ingrese con una caravana electrónica, almacenará toda la información en una base de datos, es decir: 
 cuál animal ingresó, en qué momento lo hizo, cuánto alimento se suministró y si hubo un robo, y en caso afirmativo cuál animal robó.  
 
-.. figure:: images/Activacion_Automático.png
+.. figure:: images/Activacion_Automatico.png
    :width: 600
    
    Pantalla de Activación de Modo Automático
