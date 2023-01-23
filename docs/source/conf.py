@@ -38,4 +38,3 @@ epub_show_urls = 'footnote'
 locale_dirs = ['locale/']   # path is example but recommended.
 gettext_compact = False     # optional.
 
-root_doc = 'contents'
