@@ -445,7 +445,8 @@ Para esto deberá conectar su dispositivo a la red llamada “Suplementar ” e 
 viendo la pantalla del suplementador. Desde su dispositivo se podrá guardar el reporte en formato PDF presionando el botón **Guardar PDF**. 
 Luego podrá compartirlo por correo o mensajería.
 
-**Datos de Contacto**
+Datos de Contacto
+-----------------
 
 Por información comercial contactarse a:
 
