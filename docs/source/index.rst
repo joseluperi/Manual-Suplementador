@@ -449,14 +449,14 @@ Luego podrá compartirlo por correo o mensajería.
 
 Por información comercial contactarse a:
 
-Correo: comercial@suplementarsas.com
+Correo: info@suplementarsas.com
 
 Teléfono: +54 - 9 - 351 7305203 Dario Irico
 
 
 Para consultas por asistencia técnica contactarse a:
 
-Correo: asistenciatecnica@suplementarsas.com
+Correo: asistencia@suplementarsas.com
 
 Teléfono: +54 - 9 - 351 3599649 José Luperi
 
