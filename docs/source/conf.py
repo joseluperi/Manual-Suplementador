@@ -38,3 +38,4 @@ epub_show_urls = 'footnote'
 locale_dirs = ['locale/']   # path is example but recommended.
 gettext_compact = False     # optional.
 
+figure_language_filename = '{root}.{language}{ext}'
