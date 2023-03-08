@@ -1,0 +1,1689 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022, Suplementar SAS.
+# This file is distributed under the same license as the Manual de
+# Suplementador Inteligente package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Manual de Suplementador Inteligente 0.1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-03-06 16:51-0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.7.0\n"
+
+# 600e49df2d9c469aadda0c413199acc7
+#: ../../contents.rst:2
+msgid "Manual de Usuario del Suplementador Inteligente"
+msgstr "Manual do Usuário do Suplementador Inteligente"
+
+# d7d965e135ba46c9ba9ffd8d858390d9
+#: ../../contents.rst:4
+msgid "Bienvenidos al manual de usuario del Suplementador Inteligente!"
+msgstr "Bem-vindo ao manual do usuário do Suplementador Inteligente de SUPLEMENTAR SAS!"
+
+# b12b919b82764c18a174976382bea069
+#: ../../contents.rst:9
+msgid ""
+"En este documento podrá encontrar las referencias y consejos para el uso "
+"y el mejor aprovechamiento del equipo."
+msgstr ""
+"Neste documento você encontra as referências e dicas para o uso"
+"e o melhor aproveitamento do equipamento."
+
+# 273d3ff7c3514898bbb7e8032c95699a
+#: ../../contents.rst:11
+msgid ""
+"Está demostrado que suplementar posee importantes ventajas, balanceando "
+"el rumen, mejorando la digestibilidad y equilibrando la dieta, lo que se "
+"traduce en mayor producción y beneficios. Sin embargo suplementar de la "
+"manera tradicional tiene sus dificultades ya que es trabajoso y no se "
+"puede regular la ingesta de cada animal, lo que conlleva a pérdida de "
+"eficiencia en el uso del alimento."
+msgstr ""
+"Está provado que a suplementação tem vantagens importantes, equilibrando o"
+"rúmen, melhorando a digestibilidade e equilibrando a dieta, o que se traduz"
+"em maior produção e benefícios. No entanto, a suplementação da forma tradicional "
+"tem suas dificuldades, pois é trabalhosa e a ingestão de cada animal não pode ser "
+"regulamentada, o que leva à perda de eficiência no uso dos alimentos."
+
+
+# 6556152b9daa48b299305d484c9d5585
+#: ../../contents.rst:15
+msgid "El Suplementador Inteligente posee las siguientes ventajas:"
+msgstr "O Suplemento Inteligente tem as seguintes vantagens:"
+
+# 7c7e1076f4cf458e8525d7b8ff4034a0
+#: ../../contents.rst:17
+msgid ""
+"**Nos da el control:** Permite regular la cantidad de alimento que come "
+"cada animal por día, en una o más fracciones diarias."
+msgstr ""
+"**Dá-nos controle:** permite regular a quantidade de alimento que cada animal "
+"come por dia, numa ou mais frações diárias."
+
+# fdefdda334a34f9a9a51166dd6645d3f
+#: ../../contents.rst:19
+msgid ""
+"**Facilita el Trabajo:** Funciona de forma automática, por lo que solo "
+"nos encargamos de llenar la tolva y ver los resultados."
+msgstr ""
+"**Facilita o trabalho;** Funciona automaticamente, por isso só nos encarregamos "
+"de encher a tolva e ver os resultados"
+
+# 2e05b8d2c10a49d49ded88ed620adc34
+#: ../../contents.rst:21
+#, python-format
+msgid ""
+"**Ahorra alimento:** Al dar el suplemento de forma pareja y de acuerdo a "
+"las necesidades se estima un ahorro de entre 15% a 25% de alimento."
+msgstr ""
+"**Economize alimentos:** Ao dar o suplemento uniformemente e de acordo com as "
+"necessidades, estima-se uma economia de entre 15% a 25% dos alimentos."
+
+
+# cdde1045783f4d5b8a6675c6196bd5db
+#: ../../contents.rst:23
+msgid ""
+"**Tomamos mejores decisiones:** El equipo nos da información sobre su "
+"desempeño y sobre el comportamiento animal."
+msgstr ""
+"**Tomamos melhores decisões:** a equipe nos dá informações sobre seu "
+"desempenho e comportamento animal."
+
+# c733ff38ef554e6bb4e7f658fbe8c690
+#: ../../contents.rst:25
+msgid ""
+"**Somos más eficientes:** Usamos mejor el alimento, producimos más y "
+"tomamos mejores deciiones."
+msgstr ""
+"**Somos mais eficientes:** usamos melhor os alimentos, produzimos mais "
+"e tomamos melhores decisões."
+
+
+# c5bd168adeef4e8fa4585a6584bf5249
+#: ../../contents.rst:27
+msgid ""
+"En las primeras secciones puede conocer más sobre el :ref:`Funcionamiento"
+" General <funcGeneral>` y las :ref:`Recomendaciones de Uso <recomenUso>`."
+" También podrá ver cómo se realiza la :ref:`Programación <programacion>` "
+"y ver cómo se generan los :ref:`Reportes <reportes>`."
+msgstr ""
+"Nas primeiras seções, você pode aprender mais sobre a :ref:`Operação Geral <funcGeneral>` e as "
+":ref:`Recomendações de Uso <recomenUso>`. Você também poderá  ver como a :ref:`Programação <programacion>` "
+" é realizado e como os :ref:`Relatórios são gerados <reportes>`."
+
+# 7ecb9138b7714a55b3faf6b567150a56
+#: ../../contents.rst:34
+msgid "Suplementador Inteligente a Campo"
+msgstr "Suplementador Inteligente a Campo"
+
+# 19b4c33ecf2841729c7e562bb46d0fdc
+#: ../../contents.rst:39
+msgid "Funcionamiento General"
+msgstr "Operação geral"
+
+# a2cf19d2c5e64598b40be3668cd9e428
+#: ../../contents.rst:41
+msgid ""
+"El equipo facilita la tarea de administrar la suplementación nutricional "
+"de los vacunos a campo. El mismo trabaja suministrado porciones de "
+"suplementos."
+msgstr ""
+"A equipe facilita a tarefa de administrar a suplementação nutricional do gado "
+"no campo. Ele funciona fornecendo porções de suplementos."
+
+
+# 12d07a8037324f4890fe1426476eeb70
+#: ../../contents.rst:43
+msgid ""
+"Funciona con cualquier producto seco, ya sea en forma de harina, molido, "
+"entero o peleteado (Ej.: Maíz entero o partido, expeller de soja, "
+"concentrados proteicos, productos comerciales, etc.)."
+msgstr ""
+"Funciona com qualquer produto seco, seja na forma de farinha, moído, inteiro "
+"ou peletizado (por exemplo, milho inteiro ou quebrado, expurgador de soja, "
+"concentrados de proteína, produtos comerciais etc.)."
+
+# a7bb1e7d7cff42a791fb6e5812421ec9
+#: ../../contents.rst:45
+msgid ""
+"Está concebido para funcionar de manera automática y autónoma en el lugar"
+" donde los animales están pastando, alimentándose con energía solar y "
+"almacenándola en baterías de ciclo profundo."
+msgstr ""
+"Ele é projetado para operar de forma automática e autônoma no local onde "
+"os animais estão pastando, alimentando-se de energia solar e armazenando-a "
+"em baterias de ciclo profundo."
+
+# 0579d5fe99fb4f92a5bc834eb4e21dfb
+#: ../../contents.rst:46
+msgid ""
+"El equipo de dos bocas de alimentación tiene una tolva de 1,2 metros "
+"cúbicos en donde se coloca a granel el alimento."
+msgstr ""
+"O equipamento de duas bocas de alimentação tem uma tolva de 1,2 metros "
+"cúbicos onde a alimentação é colocada a granel."
+
+# 8d618a2639ae47a4aba80642a50fa345
+#: ../../contents.rst:47
+msgid ""
+"Un solo equipo de dos bocas permite suplementar un rodeo de hasta 100 "
+"animales aproximadamente (dependiendo la categoría de animales y cantidad"
+" de fracciones diarias)."
+msgstr ""
+"Um único equipamento de duas bocas permite complementar um rebanho de até "
+"aproximadamente 100 animais (dependendo da categoria de animais e do número "
+"de frações diárias)."
+
+# eb299400fc97400f9163f809572e480d
+#: ../../contents.rst:50
+msgid ""
+"Funciona por medio de radiofrecuencia, tomando lectura de las caravanas "
+"electrónicas de los animales. Esto lo hace a través de antenas que se "
+"ubican en las bocas de suplementación, una vez detectado y reconocido el "
+"animal suministra una cantidad de alimento previamente programada si es "
+"que corresponde de acuerdo a la situación."
+msgstr ""
+"Funciona por meio de radiofrequência, tirando a leitura das caravanas "
+"eletrônicas dos animais. Isso é feito através de antenas que estão "
+"localizadas nas bocas de suplementação, uma vez detectado e reconhecido o "
+"animal fornece uma quantidade previamente programada de alimento se "
+"corresponder de acordo com a situação."
+
+# 8d4e9bb7e43748edb75f12d536272f5f
+#: ../../contents.rst:52
+msgid ""
+"Permite ser eficientes en el uso del suplemento nutricional ya que al "
+"registrar todos los datos respecto a la alimentación de cada animal, se "
+"logra un mejor control y manejo de la nutrición del ganado."
+msgstr ""
+"Permite ser eficiente na utilização do suplemento nutricional, uma vez que, "
+"através do registo de todos os dados relativos à alimentação de cada animal, "
+"consegue-se um melhor controle e gestão da nutrição do gado."
+
+# 22bfd0949e3a4ebab7d93a59358d5938
+#: ../../contents.rst:53
+msgid ""
+"En las siguientes secciones se explica cómo utilizar el equipo; cómo "
+"programarlo y generar los reportes para supervisar el funcionamiento del "
+"mismo."
+msgstr ""
+"As seções a seguir explicam como usar o computador; como programá-lo e "
+"gerar relatórios para monitorar seu funcionamento."
+
+# 3ea5384288cd4bbabb9f7a553cef33fb
+#: ../../contents.rst:59
+msgid "Recomendaciones de Uso"
+msgstr "Recomendações de Uso"
+
+# 78b3619a5b554fddb6a59249cb73c7fb
+#: ../../contents.rst:61
+msgid ""
+"Para un óptimo funcionamiento del equipo se sugiere seguir las siguientes"
+" recomendaciones."
+msgstr ""
+"Para uma operação ideal do equipamento, sugere-se seguir as seguintes "
+"recomendações."
+
+# 4c46e430fd0741bda96280d52c0ba6b2
+#: ../../contents.rst:63
+msgid "**No adosar equipos eléctricos a las baterías**"
+msgstr "**Não conectar equipamento eléctrico a baterias**"
+
+# b42d598458414911a4a42288bebe956a
+#: ../../contents.rst:65
+msgid ""
+"Las baterías del suplementador están diseñadas para que el equipo pueda "
+"operar durante largos períodos de menor producción fotovoltaica. Conectar"
+" dispositivos externos no solo puede disminuir la capacidad de operación "
+"durante períodos nublados sino que también puede generar interferencia "
+"electrónica. (Ej.: no conectar boyero eléctrico)."
+msgstr ""
+"As baterias do equipamento são projetadas para que ele possa operar por "
+"longos períodos de menor produção fotovoltaica. A conexão de dispositivos "
+"externos pode não apenas diminuir a capacidade de operar durante períodos "
+"nublados, mas também pode levar à interferência eletrônica. (Ex: não conecte "
+"tropeiro de gado elétrica)."
+
+# 7ad6817bf5734c3bac3e78ccd6607700
+#: ../../contents.rst:68
+msgid "**Limpiar panel fotovoltaico cuando sea necesario**"
+msgstr "**Limpar Painel fotovoltaico quando for necessário**"
+
+# 1c2c5c1150d341f1be69668e4e34b617
+#: ../../contents.rst:70
+msgid ""
+"La suciedad puede reducir considerablemente el rendimiento de los paneles"
+" fotovoltaicos. Incluso la suciedad muy concentrada en una zona del panel"
+" que no se limpia durante mucho tiempo, como puede ser un excremento de "
+"pájaro, puede acabar dañando el panel. Si bien el sistema fue "
+"dimensionado para tener en cuenta el ambiente de trabajo se recomienda "
+"limpiar los paneles con regularidad para un óptimo funcionamiento."
+msgstr ""
+"A sujeira pode reduzir muito o desempenho dos painéis fotovoltaicos. Mesmo "
+"a sujeira muito concentrada em uma área do painel que não é limpa por muito "
+"tempo, como excrementos de pássaros, pode acabar danificando o painel. Embora "
+"o sistema tenha sido dimensionado para levar em conta o ambiente de trabalho, "
+"recomenda-se limpar os painéis regularmente para uma operação ideal. "
+
+# 466ac94a81eb49338b6b6f45114e7822
+#: ../../contents.rst:74
+msgid "**No dejar que la máquina se quede sin alimento**"
+msgstr "**Não deixe a máquina ficar sem comida**"
+
+# d994fa438db64378a74c7084337d7a76
+#: ../../contents.rst:76
+msgid ""
+"La tolva del equipo tiene un volumen de almacenamiento que permite una "
+"autonomía de varios días entre carga y carga de suplemento. Este período "
+"depende del consumo diario, que se puede calcular como la cantidad de "
+"animales habilitados por la ración diaria que se les asigna. La "
+"frecuencia con la que se debe cargar el suplemento en el equipo se "
+"calcula dividiendo la capacidad de la tolva por el consumo diario. Si no "
+"se realiza la carga del equipo y el mismo se queda sin alimento, quedarán"
+" grabados registros de alimentación que en realidad no ocurrieron."
+msgstr ""
+"A tremonha do equipamento possui um volume de armazenamento que permite uma "
+"autonomia de vários dias entre os carregamentos do suplemento. Esse período "
+"depende do consumo diário, que pode ser calculado como o número de animais "
+"possibilitados pela ração diária que lhes é atribuída. A frequência com que "
+"o suplemento deve ser carregado no equipamento é calculada dividindo a capacidade "
+"da tremonha pelo consumo diário. Se o equipamento não estiver carregado e ficar "
+"sem comida, os registros de alimentação realmente não ocorreram serão registrados. "
+
+# 25066317b95246d98f7e99d19fc6d8b2
+#: ../../contents.rst:81
+msgid "**Utilizar pulsadores para llenar dosificadores por primera vez**"
+msgstr "**Use as teclas para encher dispensadores pela primeira vez**"
+
+# 2bb36583e8194d32bf7c83b0ea0b618a
+#: ../../contents.rst:83
+msgid ""
+"Al poner en funcionamiento el equipo por primera vez y luego de que la "
+"tolva se haya vaciado, se debe llenar el tornillo sin fin de los "
+"dosificadores para dejarlos listos. Para esto se han colocado pulsadores "
+"en el lado interno de las bocas de alimentación."
+msgstr ""
+"Quando o equipamento é colocado em operação pela primeira vez e após a "
+"tremonha ter sido esvaziada, o parafuso sem-fim dos dispensadores deve "
+"ser preenchido para torná-los prontos. Para isso, foram colocadas teclas "
+"no lado interno das bocas de alimentação."
+
+# ffa9be81456841cba608f98cd2da8b04
+#: ../../contents.rst:86
+msgid "**Calibrar dosificadores al cambiar el tipo de suplemento**"
+msgstr "**Calibrar os dispensadores ao alterar o tipo de suplemento**"
+
+# 8651e6ce5fb04393a80cdd5ebcfab73a
+#: ../../contents.rst:88
+msgid ""
+"Al cambiar el tipo de suplemento o al poner en funcionamiento el equipo "
+"por primera vez se debe calibrar los dosificadores, ya que el equipo "
+"calcula la dosis suministrada por tiempo. Para esto se deben seguir las "
+"instrucciones que se detallan más adelante en este manual, en la sección "
+"de programación del equipo y se debe disponer de una pequeña balanza de "
+"cocina para pesar dosis de aproximadamente 1 kilogramo."
+msgstr ""
+"Ao alterar o tipo de suplemento ou ao iniciar o equipamento pela primeira vez, "
+"os dispensadores devem ser calibrados, uma vez que o equipamento calcula a dose "
+"fornecida pelo tempo. Para isso, as instruções detalhadas mais adiante neste "
+"manual devem ser seguidas, na seção de programação do equipamento e uma pequena "
+"balança de cozinha deve estar disponível para pesar doses de aproximadamente 1 kg."
+
+# 1ce64ee284414c18a57a9bafd00b1d05
+#: ../../contents.rst:92
+msgid ""
+"**Familiarizar animales con equipo antes de comenzar con Plan de "
+"Suplementación**."
+msgstr ""
+"**Familiarize os animais com o equipamento antes de iniciar um Plano "
+"de Suplementação.**"
+
+# bca4ea9dc47c494dbf159df3e2642943
+#: ../../contents.rst:95
+msgid ""
+"Antes de empezar a utilizar el equipo con un rodeo que no conoce el mismo"
+" es deseable seguir el siguiente procedimiento para acostumbrarlos y "
+"conseguir un óptimo funcionamiento, con el que se logra familiarizar el "
+"rodeo en el plazo de un par de días."
+msgstr ""
+"Antes de começar a usar o equipamento com um rodeio que não o conhece, é "
+"desejável seguir o seguinte procedimento para se acostumar com eles e alcançar "
+"a operação ideal, com isso, o rodeio ficara familiarizado dentro de alguns dias."
+
+# ddb98bc08e144f5583adc14120417e5d
+#: ../../contents.rst:97
+msgid ""
+"Se recomienda encerrar los animales el día anterior al comienzo del "
+"acostumbramiento con el objetivo de que tengan hambre."
+msgstr ""
+"Recomenda-se trancar os animais no dia anterior ao início do hábito, a fim de "
+"deixá-los com fome."
+
+# 94dc316661a048ab88b483ec0e06753c
+#: ../../contents.rst:98
+msgid ""
+"Programar el suplementador con una ración de 2kg con 20 fracciones cada "
+"30 segundos (de esta forma logramos que la máquina se accione varias "
+"veces y el animal pierda el miedo)."
+msgstr ""
+"Programe o suplementador com uma ração de 2kg com 20 frações a cada 30 segundos "
+"(desta forma conseguimos que a máquina seja ativada várias vezes e o animal perca "
+"o medo)."
+
+# 6771ed23dd9149b58b0988c9d7d3c10a
+#: ../../contents.rst:99
+msgid ""
+"Ubicar el suplementador en el corral y encerrar el rodeo en el mismo sin "
+"suministrarle alimento extra, se recomienda acostumbrar de a 30 animales."
+msgstr ""
+"Coloque o suplemento no curral e envolva o rebanho nele sem fornecer comida "
+"extra, recomenda-se se acostumar com 30 animais."
+
+
+# 342bfe1c445a4c0892ed4d57f01b4eee
+#: ../../contents.rst:102
+msgid ""
+"Con el objetivo de que el animal ingrese al suplementador se puede "
+"colocar alfalfa fresca en las bocas para promover que algún animal "
+"ingrese por primera vez. Los animales reaccionan rápidamente al equipo "
+"con el suministro de alimento. Luego de 3 horas de uso se puede "
+"identificar a los animales que han ingresado varias veces desde la "
+"sección de reportes, lo que indica que estos animales han aprendido a "
+"utilizar el equipo."
+msgstr ""
+"Para que o animal entre no suplementador, a alfafa fresca pode ser colocada "
+"na boca para incentivar um animal a entrar pela primeira vez. Os animais "
+"reagem rapidamente ao equipamento com o fornecimento de ração. Após 3 horas "
+"de uso, os animais que entraram várias vezes podem ser identificados na seção "
+"de relatórios, indicando que esses animais aprenderam a usar o equipamento."
+
+
+# 75a2ba1a212948119ccdac6958c064ee
+#: ../../contents.rst:104
+msgid ""
+"Es recomendable sacar del corral a los animales acostumbrados para dejar "
+"solamente a los más temerosos para su acostumbramiento. Repetir este "
+"procedimiento hasta que todos los animales hayan entrado a comer."
+msgstr ""
+"É aconselhável remover os animais acostumados do curral para deixar apenas "
+"os mais temerosos por sua habituação. Repita este procedimento até que todos "
+"os animais tenham entrado para comer."
+
+
+# 0763864043a346c5adc604e193f17f3b
+#: ../../contents.rst:105
+msgid ""
+"En caso de ser necesario, es recomendable repetir este procedimiento de "
+"acostumbramiento para aquellos animales que no ingresan al equipo en un "
+"periodo de suplementación."
+msgstr ""
+"Se necessário, é aconselhável repetir este procedimento de hábito para os "
+"animais que não entram no equipamento em um período de suplementação."
+
+# 9e51741a83b54d74888e580624149e95
+#: ../../contents.rst:108
+msgid "**Regular las rejas de acuerdo al tamaño de los animales**"
+msgstr "**Regule as barras de acordo com o tamanho dos animais**"
+
+# 69ac98a0db1d4530a330b8309f9de796
+#: ../../contents.rst:110
+msgid ""
+"Se recomienda regular el ancho de las rejas de acuerdo a la categoría de "
+"los animales para que sólo uno pueda acceder a la boca de alimentación a "
+"la vez. También es posible regular el ancho de los laterales de la boca "
+"de acceso."
+msgstr ""
+"Recomenda-se regular a largura das barras de acordo com a categoria de animais "
+"para que apenas um possa acessar a boca de alimentação de cada vez. Também é "
+"possível regular a largura dos lados da boca de acesso."
+
+# 6f62eb8a8eb549a09cc6cb6d6b122af8
+#: ../../contents.rst:113
+msgid "**Mover el equipo por el lote periódicamente**"
+msgstr "**Movimentar o equipamento pelo lote periodicamente**"
+
+# 8f995882876a4aa7979f9a584c939061
+#: ../../contents.rst:115
+msgid ""
+"Mover el equipo para aumentar la eficiencia de cosecha de la pastura y "
+"mejorar la distribución de eyecciones. Es deseable colocar el equipo "
+"lejos del lugar donde se ubica el agua para favorecer el movimiento de "
+"los animales dentro del lote. A su vez es recomendable mover el equipo "
+"periódicamente, lo que mejora el aprovechamiento de la pastura y favorece"
+" la distribución de las eyecciones de los animales por el lote."
+msgstr ""
+"Mover o equipamentos para aumentar a eficiência da colheita de pastagens "
+"e melhorar a distribuição de ejeção. É desejável colocar o equipamento longe "
+"do local onde a água está localizada para favorecer a movimentação dos animais "
+"dentro do lote. Ao mesmo tempo, é aconselhável mover o equipamento periodicamente, "
+"o que melhora o uso da pastagem e favorece a distribuição das ejeções dos"
+"animais pelo lote."
+
+# 44893b7c5d5142569832eca15801b83c
+#: ../../contents.rst:119
+msgid "**Utilizar preferentemente varias fracciones relativamente pequeñas**"
+msgstr "**De preferência, use várias frações relativamente pequenas**"
+
+# 091370afe6db425987c84c8d27df37d9
+#: ../../contents.rst:121
+msgid ""
+"El equipo brinda la posibilidad de suministrar la dosis diaria asignada "
+"en varias fracciones al día. Es deseable dividir la alimentación en más "
+"de 3 veces al día y configurar el equipo para que las fracciones "
+"individuales no superen los 500 gramos, de esta forma la fracción es "
+"consumida de manera completa en poco tiempo, lo que minimiza las "
+"posibilidades de robo de comida por otro animal. A su vez se recomienda "
+"limitar la cantidad de fracciones a 8 o menos, ya que una gran cantidad "
+"de fracciones va en contra de la cantidad de animales que es posible "
+"manejar con un equipo debido al aumento de la frecuencia necesaria para "
+"que se cumpla el esquema completo. Por último, se sugiere utilizar "
+"raciones mayores a 100 gramos para lograr una mayor precisión de la "
+"dosificación. Por ejemplo, se sugieren las siguientes configuraciones:"
+msgstr ""
+"O equipamento oferece a possibilidade de fornecer a dose diária atribuída "
+"em várias frações por dia. É desejável dividir a ração em mais de 3 vezes "
+"ao dia e configurar o equipamento para que as frações individuais não "
+"ultrapassem 500 gramas, desta forma a fração é consumida completamente "
+"em um curto espaço de tempo, o que minimiza as chances de roubo de alimentos "
+"por outro animal. Por sua vez, recomenda-se limitar o número de frações a "
+"8 ou menos, uma vez que um grande número de frações vai contra o número de "
+"animais que podem ser manuseados com equipamentos devido ao aumento da "
+"frequência necessária para que o esquema completo seja cumprido. Finalmente, "
+"sugere-se o uso de rações superiores a 100 gramas para alcançar maior precisão "
+"de dosagem. Por exemplo, as seguintes configurações são sugeridas:"
+
+# fcdec623356643c1bee351f8ed6eb508
+#: ../../contents.rst:128
+msgid "Dosis Diaria [gramos/día]"
+msgstr "Dosis Diaria [gramos/día]"
+
+# 1a35ec68392b481fa7c02ff09d7c646e
+#: ../../contents.rst:128
+msgid "Cantidad de Fracciones"
+msgstr "Número de Frações"
+
+# cb018cb01d8c41dbae1ee5844ae87405
+#: ../../contents.rst:128
+msgid "Peso de Fracción [gramos]"
+msgstr "Peso de Fracción [gramos]"
+
+# 38ea92703ae040fe908a366d7fb9d2e7
+#: ../../contents.rst:130
+msgid "600"
+msgstr "600"
+
+# bdc6c1832ab042878ecd6cdae544c96c
+# 115219e19e99443bb3d9cbbe4861d5da
+#: ../../contents.rst:130 ../../contents.rst:132
+msgid "3"
+msgstr "3"
+
+# 92be311520384b51ab834ba09a2319c4
+#: ../../contents.rst:130
+msgid "200"
+msgstr "200"
+
+# d6c67dd67f0746899089e1761327b39e
+#: ../../contents.rst:132
+msgid "1000"
+msgstr "1000"
+
+# 22f695cdf8ea4adc93c3929046b5f7ee
+#: ../../contents.rst:132
+msgid "333"
+msgstr "333"
+
+# 9f9378b8072c488498185c2ed8c0920f
+#: ../../contents.rst:134
+msgid "1500"
+msgstr "1500"
+
+# e2e2106eb16b4f8da359955f58f4b177
+#: ../../contents.rst:134
+msgid "4"
+msgstr "4"
+
+# 4a9a45a0847c4b85a6a88ebb10c42172
+#: ../../contents.rst:134
+msgid "375"
+msgstr "375"
+
+# 7e3b05aaacf048519affd1bd8cfebbad
+#: ../../contents.rst:136
+msgid "2000"
+msgstr "2000"
+
+# 36bad7b0f4224474946bf2252423d9b5
+#: ../../contents.rst:136
+msgid "5"
+msgstr "5"
+
+# 7390ba290bbb4650abfca7fd4a34e691
+#: ../../contents.rst:136
+msgid "400"
+msgstr "400"
+
+# 49c7aa7ccd644afda18bf162aab4fa74
+#: ../../contents.rst:138
+msgid "2500"
+msgstr "2500"
+
+# f6ab3b6b994f47708ead85a238641248
+#: ../../contents.rst:138
+msgid "6"
+msgstr "6"
+
+# 808e8c9510ee47c6be69d0bc701e65ce
+#: ../../contents.rst:138
+msgid "417"
+msgstr "417"
+
+# 3f1b62af167a43c78e1fc6ade610ec4d
+#: ../../contents.rst:140
+msgid "3000"
+msgstr "3000"
+
+# 62ad5c45c33e4a15879675642a0a6e7f
+#: ../../contents.rst:140
+msgid "7"
+msgstr "7"
+
+# 81911fd5a5fc4db388c1f0e9db52d3eb
+#: ../../contents.rst:140
+msgid "429"
+msgstr "429"
+
+# 0a2e66b88aea492190a31bfd5a1a1e03
+#: ../../contents.rst:143
+msgid ""
+"**Diluir aquellos productos de baja administración como urea, vitaminas o"
+" minerales**"
+msgstr ""
+"**Diluir os produtos de baixa administração, como ureia, vitaminas ou "
+"minerais**"
+
+# 0ec35821b99a47719ff812a5e2dd0bf1
+#: ../../contents.rst:145
+msgid ""
+"Diluir aquellos productos de baja administración utilizando maíz molido u"
+" otro alimento. Para aquellos productos que se deben suministrar en "
+"pequeñas dosis se sugiere utilizarlos mezclándolos con maíz molido para "
+"mejorar la precisión de la cantidad suministrada, ya que el equipo está "
+"diseñado para suministrar dosis de suplementación en el orden descrito en"
+" el punto anterior. Tener en cuenta que pueden existir animales que roban"
+" alimento y de esta forma aumentar considerablemente su consumo."
+msgstr ""
+"Dilua os produtos de baixa administração usando milho moído ou outros alimentos. "
+"Para os produtos que devem ser fornecidos em pequenas doses, sugere-se usá-los "
+"misturando-os com milho moído para melhorar a precisão da quantidade fornecida, "
+"uma vez que o equipamento é projetado para fornecer doses de suplementação na "
+"ordem descrita no ponto anterior. Tenha em mente que pode haver animais que roubam "
+"comida e, assim, aumentam consideravelmente seu consumo."
+
+# e94448b4f1a241c5a42b3be0b8759817
+#: ../../contents.rst:150
+msgid ""
+"**Dar una ración mínima a todos los animales que permanezcan junto con la"
+" máquina**"
+msgstr ""
+"**Dê uma ração mínima a todos os animais que permanecerem juntos com"
+"a máquina**"
+
+# 4bf175ba35c640db8f805fe2dd55d226
+#: ../../contents.rst:152
+msgid ""
+"Cuando a un animal o grupo de animales que están en el lote se le desea "
+"cortar la suplementación se sugiere mantener una ración mínima, por "
+"ejemplo de 100 gramos por día, a los efectos de que los animales no "
+"pierdan la costumbre de utilizar el equipo y sea posible de ser necesario"
+" arrancar con la suplementación nuevamente."
+msgstr ""
+"Quando um animal ou grupo de animais que estão no lote quer cortar a "
+"suplementação, sugere-se manter uma ração mínima, por exemplo, 100 gramas "
+"por dia, para que os animais não percam o hábito de usar o equipamento e "
+"seja possível, se necessário, começar com a suplementação novamente."
+
+# cb03303d948244729083d7488f1e7085
+#: ../../contents.rst:158
+msgid "Operación"
+msgstr "Operação"
+
+# e691fe4602bb41418d127f3f500347c0
+#: ../../contents.rst:160
+msgid "**Regulador de Voltaje**"
+msgstr "**Regulador de Tensão**"
+
+# fa0e53a156224bf4809de9f17d8684bf
+#: ../../contents.rst:163
+msgid ""
+"El equipo dispone de un regulador de voltaje que cumple la función de "
+"convertir la energía que genera el panel fotovoltaico al voltaje adecuado"
+" para cargar las baterías y operar el equipo. El encendido o apagado del "
+"equipo se activa presionando el botón inferior *ON/OFF*. Mediante los "
+"botones botón *MENU* y los botones arriba/abajo *UP/DOWN* y la pantalla "
+"LED es posible visualizar todos los parámetros de operación, incluyendo "
+"voltaje de las baterías, corriente de carga fotovoltaica y corriente de "
+"descarga."
+msgstr ""
+"O equipamento possui um regulador de tensão que cumpre a função de converter "
+"a energia gerada pelo painel fotovoltaico para a tensão apropriada para "
+"carregar as baterias e operar o equipamento. Ligar ou desligar o computador "
+"é ativado pressionando o botão *ON/OFF* inferior. Usando os botões do botão *MENU* "
+"e os botões *UP/DOWN* e  o display LED, é possível exibir todos os "
+"parâmetros operacionais, incluindo a tensão da bateria, a corrente de "
+"carregamento fotovoltaico e a corrente de descarga"
+
+# a77a78ffc2144b1b8349561b34868ead
+#: ../../contents.rst:170
+msgid "Regulador de Voltaje de Paneles Solares"
+msgstr "Regulador de Tensão do Painel Solar"
+
+# d76726272cba4400b9cbb471cad60705
+#: ../../contents.rst:172
+msgid "**Baterías de Ciclo Profundo**"
+msgstr "**Baterias de ciclo profundo**"
+
+# 48761b9eb8944241a6c15695d792fed3
+#: ../../contents.rst:175
+msgid ""
+"El equipo viene dotado de dos baterías de ciclo profundo de larga "
+"duración que permite el funcionamiento del equipo aún en períodos "
+"prolongados de poca radiación solar. Ya que estas baterias están "
+"preparadas para un gran número de ciclos de carga y descarga tienen una "
+"duración esperada de más de tres años."
+msgstr ""
+"O equipamento está equipado com duas baterias de ciclo profundo de longa "
+"duração que permitem que o equipamento opere mesmo em períodos prolongados "
+"de baixa radiação solar. Como essas baterias são preparadas para um grande "
+"número de ciclos de carga e descarga, elas têm uma duração esperada de mais "
+"de três anos."
+
+# 6952282ebe30435e89363c6463660bb6
+#: ../../contents.rst:179
+msgid "**Tablero Eléctrico**"
+msgstr "**Painel Elétrico**"
+
+# b254d34793954803a9b4a87b80fb240a
+#: ../../contents.rst:181
+msgid ""
+"Dentro del gabinete eléctrico se encuentran los componentes eléctricos y "
+"electrónicos que incluyen a la computadora principal, placas electrónicas"
+" para entradas y salidas, relés, fusíbles y llaves seccionadoras. No será"
+" necesario que el usuario abra el tablero y se recomienda no hacerlo."
+msgstr ""
+"Dentro do gabinete elétrico estão os componentes elétricos e eletrônicos "
+"que incluem o computador principal, placas eletrônicas para entradas e saídas, "
+"relés, fussíveis e chaves de seccionamento. Não será necessário que o usuário "
+"abra o painel e recomenda-se não fazê-lo."
+
+# c516d06fdfb24e539635aa21abc73d1a
+#: ../../contents.rst:188
+msgid "Programación"
+msgstr "Programação"
+
+# afed84aef1e648be9d477ba73057aa7c
+#: ../../contents.rst:190
+msgid ""
+"En las siguientes secciones se muestra la carga inicial de los animales, "
+"su agrupamiento, la configuración de sus parámetros de alimentación y la "
+"gestión de datos."
+msgstr ""
+"As seções a seguir mostram o carregamento inicial dos animais, seu agrupamento, "
+"a configuração de seus parâmetros de alimentação e o gerenciamento de dados."
+
+# 6e201d266f234bd59320027c1f805fa0
+#: ../../contents.rst:193
+msgid "Configuración"
+msgstr "Configuração"
+
+# 462a07da74154cb8bd13694a5aba369a
+#: ../../contents.rst:195
+msgid ""
+"La programación del funcionamiento se realiza a través de *Rodeos*, es "
+"decir, de grupos de animales."
+msgstr ""
+"A programação da operação é feita por meio de *Rodeios*, ou seja, grupos de animais."
+
+
+# e6edacfdeb8a41a7b2e1dee974d80a81
+#: ../../contents.rst:196
+msgid ""
+"El primer paso es la definición de los rodeos. Para esto se debe acceder "
+"a la pantalla principal de programación presionando sobre el botón "
+"**Programar** en la pantalla principal."
+msgstr ""
+"O primeiro passo é a definição dos rodeios. Para isso, você deve acessar a tela de "
+"programação principal clicando no botão **Programar** na tela principal."
+
+# ab277d8cfb44475f80ddeea9e8d69b76
+#: ../../contents.rst:201
+msgid "Pantalla Principal"
+msgstr "Tela principal"
+
+# 5068f81781a948969bf5c931c095c465
+#: ../../contents.rst:203
+msgid "**Definición de Rodeos**"
+msgstr "**Definição de Rodeios**"
+
+# 8839470b71c646f78f7a153225306622
+#: ../../contents.rst:205
+msgid ""
+"Para definir los rodeos se presiona en el botón **Agregar o Quitar "
+"Rodeos**  en la pantalla principal de programación."
+msgstr ""
+"Para definir os rodeios, clique no botão **Adicionar ou Remover Rodeios** na tela "
+"de programação principal."
+
+# 2f08eea657d648b2ad89a50535fc6996
+#: ../../contents.rst:210
+msgid "Pantalla para Programar Rodeos"
+msgstr "Tela para agendar rodeios"
+
+# 66fab1bfa04e4f1385586e14e9163837
+#: ../../contents.rst:212
+msgid ""
+"Al presionar en **Agregar** se despliega el menú para crear un nuevo "
+"Rodeo, en donde podremos definir un número de identificación y una "
+"descripción. Al presionar en **Guardar** el rodeo quedará definido. "
+"También es posible modificar los datos de un rodeo o eliminarlo, "
+"seleccionándolo de la lista y presionando el botón **Modificar** o "
+"**Eliminar**."
+msgstr ""
+"Clicar em **Adicionar** exibe o menu para criar um novo Rodeio, onde podemos "
+"definir um número de identificação e uma descrição. Clicar em **Salvar** o rodeio será "
+"definido. Também é possível modificar os dados de um rodeio ou excluí-los, "
+"selecionando-os na lista e pressionando o botão **Modificar** ou **Excluir**."
+
+# 508e37abd92c4f5ba078c5a35ba284f9
+#: ../../contents.rst:219
+msgid "Pantalla para Agregar o Modificar Rodeos"
+msgstr "Tela para adicionar ou modificar rodeios"
+
+# a914e32030d145e9b8ca614f9b0dad9a
+#: ../../contents.rst:221
+msgid "**Definición de Animales**"
+msgstr "**Definição de Animais**"
+
+# d44c6d4435304a32bd0604763c0bbc86
+#: ../../contents.rst:224
+msgid ""
+"El siguiente paso será agregar los *Animales* al rodeo. Para esto debemos"
+" presionar el botón de **Agregar/Quitar Animales**, donde seleccionaremos"
+" el rodeo de la lista existente, ingresamos *Número de Caravana* (Ej. "
+"caravanas tarjeta o botones oficiales de SENASA o identificación propia) "
+"y el *Número de Tag* (número que tiene impreso la caravana electrónica)."
+msgstr ""
+"O próximo passo será adicionar os Animais ao rodeio. Para isso, devemos pressionar "
+"o botão Adicionar / Remover Animais, onde selecionaremos o rodeio da lista existente, "
+"digitaremos  o Número da Caravana (por exemplo, cartão de caravanas ou botões oficiais "
+"do SENASA ou identificação própria) e  o Número da Etiqueta (número que tem a caravana"
+"eletrônica impressa)."
+
+# 30cf7b2aed1f4d21ab0ad9f181c7594c
+#: ../../contents.rst:225
+msgid ""
+"Al seleccionar guardar quedan registrados los datos. Este proceso se "
+"repite para incorporar todos los animales a los que se quiere "
+"suplementar."
+msgstr ""
+"Selecionar salvar registra os dados. Este processo é repetido para incorporar todos os "
+"animais aos quais você deseja suplementar."
+
+# 67c3a4d738f245e3aa10be6e4e917844
+#: ../../contents.rst:226
+msgid ""
+"Una vez guardados los animales figuran en la lista de la izquierda, en "
+"donde figura el número de rodeo, seguido de la identificación y el número"
+" de Tag."
+msgstr ""
+"ma vez salvos, os animais são listados à esquerda, onde aparece o número do rodeio, seguido "
+"da identificação e do número da etiqueta."
+
+# b1218ed9f6ba4dd4ae6936db454144be
+#: ../../contents.rst:227
+msgid ""
+"Se puede modificar los datos de un animal o eliminarlo seleccionándolo de"
+" la lista."
+msgstr ""
+"Você pode modificar os dados de um animal ou excluí-los selecionando-os na lista."
+
+# de5d9cba29be4d1394a4ff662fa716f1
+#: ../../contents.rst:232
+msgid "Pantalla para Agregar Animales"
+msgstr "Tela para adicionar animais"
+
+# 5f4611f6071c42e2b12a628477e95cae
+#: ../../contents.rst:234
+msgid "**Búsqueda de Animales**"
+msgstr "**Busca de Animais**"
+
+# 4563f330cb284e138a5bf7ca9e2d04b6
+#: ../../contents.rst:236
+msgid ""
+"También es posible buscar animales ya cargados para modificar los datos o"
+" cambiarlos de rodeo. Es posible buscar un animal por Caravana o por Tag "
+"(número de caravana electrónica)."
+msgstr ""
+"Também é possível procurar animais já carregados para modificar os dados ou "
+"alterá-los do rodeio. É possível procurar um animal por Caravana ou por Tag "
+"(número eletrônico da caravana)."
+
+# 1bf227358d7d43b886f86f660a7aff9e
+#: ../../contents.rst:237
+msgid ""
+"De existir el animal con los datos ingresados en la base de datos quedará"
+" seleccionado de la lista de animales para su modificación."
+msgstr ""
+"Se o animal existir com os dados inseridos no banco de dados, ele será "
+"selecionado da lista de animais para modificação."
+
+# f0a9858ffae14e98a111d5518fde60ba
+#: ../../contents.rst:242
+msgid "Pantalla para Buscar Animales"
+msgstr "Tela de Pesquisa de Animais"
+
+# c6dec4cabb824ab99c84832d29deadf8
+#: ../../contents.rst:244
+msgid "**Parámetros de Alimentación**"
+msgstr "**Parâmetros de Alimentação**"
+
+# 70800eed8cf84ea4b1bda2ab34759cc2
+#: ../../contents.rst:246
+msgid ""
+"El siguiente paso es definir los parámetros de alimentación del rodeo. "
+"Para esto se presiona en **Parámetros Dosificación**."
+msgstr ""
+"O próximo passo é definir os parâmetros de alimentação do rodeio. Para fazer "
+"isso, clique em **Parâmetros de dosagem**."
+
+# 98090414a6f94fd2b35faf7b45054404
+#: ../../contents.rst:249
+msgid ""
+"Los parámetros de alimentación se pueden definir por rodeo, es decir de "
+"manera grupal a todos los animales que lo integran o de manera "
+"individual, es decir parámetros especiales sólo para este animal. Al "
+"ingresar a la pantalla de dosificación  aparecerá una lista que contiene "
+"los rodeos existentes resaltados en color azul y bajo cada rodeo se "
+"muestran los animales que contienen por medio de su caravana física."
+msgstr ""
+"Os parâmetros de alimentação podem ser definidos por rodeio, ou seja, de forma "
+"grupal para todos os animais que o integram ou individualmente, ou seja, "
+"parâmetros especiais apenas para este animal. Ao entrar na tela de dosagem "
+"aparecerá uma lista contendo os rodeios existentes destacados em azul e sob "
+"cada rodeio os animais que eles contêm são mostrados através de sua caravana"
+"física."
+
+# 36e6ee4805c347369b719c49f6566b43
+#: ../../contents.rst:251
+msgid ""
+"Si los animales no están remarcados en la lista significa que se guiará "
+"por la definición grupal pero si un animal se encuentra resaltado en "
+"color verde, significa que tiene asignado parámetros de suplementación "
+"individual."
+msgstr ""
+"Se os animais não estiverem destacados na lista, isso significa que ele "
+"será guiado pela definição do grupo, mas se um animal for destacado em verde, "
+"isso significa que ele atribuiu parâmetros de suplementação individuais."
+
+# 03486bfdc816413bb8d0eb279940fa2e
+#: ../../contents.rst:252
+msgid ""
+"El rodeo o animal que ud. seleccione se verá resaltado de color amarillo,"
+" como en las demás pantallas."
+msgstr ""
+"O rodeio ou animal que você selecionar será destacado em amarelo, assim "
+"como nas outras telas."
+
+# 8d020f30fab14853bbf10f288777e619
+#: ../../contents.rst:253
+msgid ""
+"Para definir los parámetros para todo el grupo (por rodeo) se selecciona "
+"el rodeo de la lista y se presiona el botón **Modificar**."
+msgstr ""
+"Para definir os parâmetros para todo o grupo (por rodeio) selecione o rodeio "
+"na lista e pressione o botão **Modificar**."
+
+# 59e9bd4956ab40f4a0f1ea1256f407ec
+#: ../../contents.rst:258
+msgid "Pantalla Principal de Parámetros de Alimentación"
+msgstr "Tela principal dos parâmetros de Alimentação"
+
+# d315263e59904a2dac913ce6d46f1055
+#: ../../contents.rst:260
+msgid ""
+"En la pantalla que se abre se ingresa la cantidad de kilogramos diarios "
+"de alimento y la cantidad de dosis al día o fracciones."
+msgstr ""
+"Na tela que se abre, insira o número de quilos de alimentos por dia e o "
+"número de doses por dia ou frações."
+
+# 373ad0bf41c2460fbc41035b96431cdc
+#: ../../contents.rst:262
+msgid ""
+"A su vez se define un intervalo mínimo entre fracciones, que permite "
+"espaciar las raciones en el día. Este parámetro es el tiempo medido en "
+"segundos que debe pasar como mínimo para autorizar una comida después de "
+"la anterior."
+msgstr ""
+"Ao mesmo tempo, é definido um intervalo mínimo entre as frações, o que permite "
+"que as rações sejam espaçadas no dia. Este parâmetro é o tempo medido em "
+"segundos que deve passar minimamente, para autorizar uma refeição após a anterior."
+
+# 70c4263fc7c04a0ca38133ee11d28874
+#: ../../contents.rst:263
+msgid ""
+"Al seleccionar un animal de la lista es posible cambiar los parámetros de"
+" dosificación de manera *particular* para lo que se activa la posibilidad"
+" de tildar la casilla **Tratar como animal individual**."
+msgstr ""
+"Ao selecionar um animal da lista, é possível alterar os parâmetros de dosagem de uma "
+"maneira particular para a qual a possibilidade de marcar a caixa Tratar como animal"
+"individual é ativada."
+
+# f74546283b234277baf38f2f4d5fe9ec
+#: ../../contents.rst:264
+msgid ""
+"Si se activa la casilla es posible grabar los cambios específicamente "
+"para este animal."
+msgstr ""
+"Se a caixa de seleção estiver marcada, é possível salvar as alterações especificamente "
+"para esse animal."
+
+# 63be298ba5484b37b4a0aba11170eefe
+#: ../../contents.rst:269
+msgid "Pantalla de Parámetros de Alimentación"
+msgstr "Exibição de parâmetros de Alimentação"
+
+# 74d280661d294d9b80939daea5ef9ca3
+#: ../../contents.rst:271
+msgid "**Identificación de Robos**"
+msgstr "**Identificação de Roubos**"
+
+# 5a9caae4472e4a889dfd864dd7e476cd
+#: ../../contents.rst:273
+msgid ""
+"Como todo grupo social existen animales dominantes, que en algunas "
+"ocasiones intentan robar la comida de otro animal, corriéndolo de la boca"
+" de expendio."
+msgstr ""
+"Como qualquer grupo social, existem animais dominantes, que às vezes tentam "
+"roubar a comida de outro animal, correndo-a da saída."
+
+# e87fbe0d9841455d9320ff41b8448678
+#: ../../contents.rst:275
+msgid ""
+"Para esto el equipo tiene rejas de protección, sin embargo, aún con esta "
+"protección algunos animales dominantes pueden lograr desplazar al animal "
+"e ingresar a la boca cuando todavía hay comida del animal que se está "
+"alimentando."
+msgstr ""
+"Para isso o equipamento conta com barras de proteção, porém, mesmo com essa "
+"proteção alguns animais dominantes conseguem movimentar o animal e entrar na "
+"boca quando ainda há alimento do animal que está se alimentando."
+
+# 1863f4e51f334592878a16fea92e4b1d
+#: ../../contents.rst:276
+msgid ""
+"Para poder registrar dichos comportamientos existe un parámetro que se "
+"llama *Tiempo de Robo*. Este parámetro se calcula en relación al tiempo, "
+"en segundos, que tarda el animal en comer la fracción suministrada."
+msgstr ""
+"Para registrar esses comportamentos, há um parâmetro chamado Tempo de Roubo. "
+"Esse parâmetro é calculado em relação ao tempo, em segundos, que o animal leva "
+"para comer a fração fornecida."
+
+# 7ae8924e82144d5394ab776ae4fd49b1
+#: ../../contents.rst:277
+#, python-format
+msgid ""
+"Se aconseja calcular el tiempo de robo en un 75% del tiempo en que tarda "
+"en levantar la ración un animal. Los estudios que hemos realizado nos "
+"aconsejan calcular 10 segundos por cada 100gr."
+msgstr ""
+"É aconselhável calcular o tempo de roubo em 75% do tempo que leva para um "
+"animal levantar a ração. Os estudos que realizamos nos aconselham a calcular "
+"10 segundos por 100gr."
+
+# 23c3b71b9d64436789672b63df3f8c6f
+#: ../../contents.rst:278
+msgid ""
+"Por ejemplo, para fracciones de 200 gramos, se calcula un tiempo de robo "
+"de 20 segundos, a pesar que el animal pasa más tiempo en la boca de "
+"expendio, el mismo ya terminó de comer."
+msgstr ""
+"Por exemplo, para frações de 200 gramas, um tempo de roubo de 20 segundos é "
+"calculado, embora o animal passe mais tempo no ponto de expedição, ele já "
+"terminou de comer."
+
+# 8757bba37f804db589aab6fbd360c419
+#: ../../contents.rst:279
+msgid ""
+"El equipo de suplementación permite identificar las situaciones de robo y"
+"  a los animales que tienen este comportamiento midiendo la cantidad de "
+"alimento robado en porcentaje de suplementación diaria."
+msgstr ""
+"O equipamento de suplementação permite identificar as situações de roubo e "
+"os animais que apresentam esse comportamento medindo a quantidade de alimentos "
+"roubados em porcentagem de suplementação diária."
+
+# 45c75385220941a194361908854fd8a8
+#: ../../contents.rst:280
+msgid ""
+"Es decir, el equipo nos informa cuánto alimento de más está comiendo en "
+"relación a lo que debería comer. Podremos ver a los animales que han "
+"robado y la cantidad de veces que lo han hecho en los reportes."
+msgstr ""
+"Ou seja, a equipe nos diz quanto mais comida está comendo em relação ao que deveria "
+"comer. Poderemos ver os animais que roubaram e o número de vezes que o fizeram nos "
+"relatórios."
+
+# e90d78b1a99749c4928185bb6c8d9f81
+#: ../../contents.rst:281
+msgid ""
+"Es importante aclarar que los datos de robo no son datos precisos de "
+"*consumo de alimento*, ya que los animales entran y salen en el forcejeo,"
+" pero si es un dato preciso de comportamiento."
+msgstr ""
+"É importante esclarecer que os dados de roubo não são dados precisos de consumo "
+"de alimentos, uma vez que os animais entram e saem na luta, mas são dados comportamentais "
+"precisos."
+
+# ef51d4192c1c45a685a31ff9392b8349
+#: ../../contents.rst:282
+msgid ""
+"Para definir el tiempo de robo se debe presionar el botón de *Parámetros "
+"Generales* en la pantalla principal."
+msgstr ""
+"Para definir o tempo de roubo, você deve pressionar o botão Parâmetros Gerais na tela "
+"principal."
+
+# c0e266bab3d14ef0923e95ab55838d56
+#: ../../contents.rst:287
+msgid "Pantalla de Parámetros Generales"
+msgstr "Tela de parâmetros gerais"
+
+# 98b496c592af4329b7be9a16cca5ec8e
+#: ../../contents.rst:290
+msgid "Calibración de Dosificación"
+msgstr "Calibração de dosagem"
+
+# 27d925ffab7f485f823b440f41d5b3f0
+#: ../../contents.rst:292
+msgid ""
+"La calibración de dosificación se debe realizar solamente la primera vez "
+"antes de ser usado o en caso de cambiar el tipo de suplemento."
+msgstr ""
+"A calibração da dosagem deve ser realizada apenas na primeira vez antes do "
+"uso ou em caso de alteração do tipo de suplemento."
+
+# d4463ab863914711823ac3884faecbb4
+#: ../../contents.rst:294
+msgid ""
+"Se ingresa a la pantalla presionando **Calibrar Dosificación** en la "
+"pantalla principal de programación y luego **Arrancar Calibración**, "
+"seleccionando la boca de expendio correspondiente que se quiere calibrar."
+msgstr ""
+"Você entra na tela pressionando **Calibrar Dosagem** na tela de programação "
+"principal e, em seguida, **Iniciar calibração**, selecionando a saída correspondente "
+"que deseja calibrar."
+
+# 405dc1a1c67a4d6193487bc164f3707e
+#: ../../contents.rst:296
+msgid ""
+"Se necesita una balanza de cocina y un recipiente, que debe ser tarado en"
+" la balanza antes de empezar. Se coloca el recipiente en la boca y se "
+"presiona **Continuar**, automáticamente la máquina suministra alimento, "
+"el mismo se pesa y se ingresa ese dato en la pantalla."
+msgstr ""
+"Você precisa de uma balança de cozinha e um recipiente, que deve ser pesado "
+"na balança antes de começar. O recipiente é colocado na boca e pressionar "
+"**Continuar**, automaticamente a máquina fornece alimentos, o mesmo é pesado "
+"e esses dados são inseridos na tela."
+
+# 14ffee467d714e7a94fff9ebaac713b7
+#: ../../contents.rst:297
+msgid ""
+"Este proceso se repite 3 veces para mayor precisión. El equipo ajusta "
+"automáticamente los parámetros para que se suministre la cantidad "
+"adecuada en el modo de operación normal."
+msgstr ""
+"Este processo é repetido 3 vezes para precisão. O equipamento ajusta "
+"automaticamente os parâmetros para que a quantidade apropriada seja fornecida "
+"no modo de operação normal."
+
+# bb43db0644c342b1b9951f7177c068dc
+#: ../../contents.rst:298
+msgid ""
+"El margen de error en el suministro del dosificador va depender de la "
+"presentación del alimento, el mismo se encuentra entre 3 a 7%."
+msgstr ""
+"A margem de erro no fornecimento do dispensador dependerá da apresentação "
+"do alimento, é entre 3 a 7%."
+
+# 17dd59a3b21c4e479f4222205bb42906
+#: ../../contents.rst:303
+msgid "Pantalla de Calibración"
+msgstr "Tela de calibração"
+
+# a09250a866b54541b656aa7e996ca8a7
+#: ../../contents.rst:306
+msgid "Modo de Operación Automático"
+msgstr "Modo de Operação Automática"
+
+# 1d438bdeb69d485aad377562aa56c064
+#: ../../contents.rst:308
+msgid ""
+"Para dejar al equipo en funcionamiento, es decir a la espera del ingreso "
+"de los animales para suplementarlos, se debe activar el modo de "
+"funcionamiento automático."
+msgstr ""
+"Para deixar o equipamento em funcionamento, ou seja, aguardar a entrada dos "
+"animais para alimentá-los, o modo de funcionamento automático deve ser ativado."
+
+# 1581c16d29fd455ca9f53705d0ebc092
+#: ../../contents.rst:309
+msgid ""
+"Esto se hace presionando el botón **Automático** en la pantalla principal"
+" y se seleccionan los rodeos que se desea dejar activos, es decir que el "
+"equipo suministrará el suplemento a todos los animales que estén dentro "
+"del o los rodeos seleccionados."
+msgstr ""
+"Isso é feito pressionando o botão Automático na tela principal e selecionando "
+"os rodeios que você deseja deixar ativos, ou seja, a equipe fornecerá o suplemento "
+"para todos os animais que estiverem dentro do rodeio ou rebanhos selecionados."
+
+# 705dfba46d7a46e3b34dff860a221a24
+#: ../../contents.rst:311
+msgid ""
+"Mientras el equipo esté en este modo registrará todos los datos de "
+"operación, es decir que para cada animal que ingrese con una caravana "
+"electrónica, almacenará toda la información en una base de datos, es "
+"decir: cuál animal ingresó, en qué momento lo hizo, cuánto alimento se "
+"suministró y si hubo un robo, y en caso afirmativo cuál animal robó."
+msgstr ""
+"Enquanto o equipamento estiver nessa modalidade ele registrará todos os dados da operação, "
+"ou seja, para cada animal que entrar com uma caravana eletrônica, ele armazenará todas as "
+"informações em um banco de dados, ou seja: qual animal entrou, em que horário chegou, quanta "
+"comida foi fornecida e se houve roubo e, em caso afirmativo, qual animal roubou."
+
+# d7d4e1d9fd544428b686498a38cb1f9d
+#: ../../contents.rst:316
+msgid "Pantalla de Activación de Modo Automático"
+msgstr "Tela de ativação do modo automático"
+
+# 7d947b7f4458465195c4bfdb54b3a650
+#: ../../contents.rst:318
+msgid ""
+"En el modo de operación automático, el equipo muestra en su pantalla la "
+"información sobre los últimos ingresos en cada boca de alimentación "
+"incluyendo el número de caravana física del animal que ingresó; su número"
+" de caravana electrónica y el registro, que describe la operación que se "
+"lleva a cabo."
+msgstr ""
+"No modo de operação automática, o equipamento mostra em sua tela as informações sobre as "
+"últimas admissões em cada boca de alimentação, incluindo o número da caravana física do animal "
+"que entrou; O seu número de caravana eletrônica e registo, que descreve a operação que está a "
+"ser realizada."
+
+# 910b49b388db4e0db9bff3cfe7cd4ff2
+#: ../../contents.rst:321
+msgid "El registro de operación puede mostrar los siguientes estados:"
+msgstr "O registro das operações pode exibir os seguintes status:"
+
+# 37655bf4ce4f4acfbe83a9daae7cf7b4
+#: ../../contents.rst:323
+msgid "**Dosificando**"
+msgstr "**Dosagem**"
+
+# 4c206226d27e45dfa0f84161e85dcf34
+#: ../../contents.rst:325
+msgid ""
+"Esta leyenda se muestra al suministrar el alimento e incluye: el número "
+"de fracción diaria; el número de fracciones configurado; la cantidad de "
+"suplemento entregado; la ración diaria configurada y el porcentaje que "
+"representa."
+msgstr ""
+"Esta legenda é mostrada ao fornecer o alimento e inclui: o número da fração "
+"diária; o número configurado de frações; A quantidade de suplemento entregue; "
+"o conjunto de ração diária e a percentagem que representa."
+
+# e4a6e49b62c44adeb626f340f13fa80d
+#: ../../contents.rst:328
+msgid "**Alimento Completo**"
+msgstr "**Alimentação Completa**"
+
+# 93fb0d540cff40ef8529e65b84d2fc55
+#: ../../contents.rst:330
+msgid ""
+"Esta leyenda se muestra cuando el animal ya ha recibido la totalidad de "
+"las fracciones configurada y no se le administra comida."
+msgstr ""
+"Esta legenda é exibida quando o animal já recebeu todas as frações "
+"configuradas e não recebe comida."
+
+# 32472cd1e475493f8368401b6e7a97ec
+#: ../../contents.rst:332
+msgid "**Robo Registrado**"
+msgstr "**Roubo registrado**"
+
+# d25c0758f2a7493f9fae71a432334794
+#: ../../contents.rst:334
+msgid ""
+"Esta leyenda se muestra cuando se detecta un robo, es decir cuando se le "
+"administra suplemento a un animal y dentro del período de tiempo "
+"configurado ingresa otro animal. Esta situación es identificada como un "
+"robo que se imputa al segundo animal."
+msgstr ""
+"Esta legenda é mostrada quando um roubo é detectado, ou seja, quando um suplemento "
+"é administrado a um animal e dentro do período configurado e outro animal entra. "
+"Esta situação é identificada como um roubo que é imputado ao segundo animal."
+
+# 7e7fbf5424b74fdea5c842f358fa3f90
+#: ../../contents.rst:337
+msgid "**Mal Rodeo**"
+msgstr "**Rodeio errado**"
+
+# 2555926448dd48a68d83ef1cbe808544
+#: ../../contents.rst:339
+msgid ""
+"Esta leyenda se muestra cuando el animal que ingresó se encuentra "
+"registrado en la base de datos pero está en un rodeo que no ha sido "
+"seleccionado para ser suplementado en el momento de activación del "
+"equipo. No significa que represente un error pero se informa a los "
+"efectos de que el usuario pueda conocer la situación y para que pueda "
+"verificar que no se trate de un error de carga de datos."
+msgstr ""
+"Esta legenda é mostrada quando o animal que você inseriu está registrado "
+"no banco de dados, mas está em um rebanho que não foi selecionado para ser complementado "
+"no momento da ativação do equipamento. Isso não significa que representa um erro, mas é "
+"relatado para que o usuário possa conhecer a situação e para que ele possa verificar se "
+"não é um erro de upload de dados."
+
+# 60f76ae1a6bd4bc297de65b0c8a861de
+#: ../../contents.rst:342
+msgid "**No Existe**"
+msgstr "**Não existe**"
+
+# 8e9370e7fa2f49d294fff0878c155442
+#: ../../contents.rst:344
+msgid ""
+"Esta leyenda se muestra cuando el animal que ingresó no se encuentra "
+"registrado en la base de datos, es  decir que el número de caravana "
+"electrónica no se grabó en ningún rodeo. Al igual que la situación "
+"anterior se informa a los efectos de que el usuario pueda conocer la "
+"situación y para que pueda verificar que no se trate de un error de carga"
+" de datos."
+msgstr ""
+"Essa legenda é mostrada quando o animal que entrou não está cadastrado no banco de dados, "
+"ou seja, o número da caravana eletrônica não foi registrado em nenhum rodeio. Como a situação "
+"anterior, ele é relatado para que o usuário possa conhecer a situação e para que ele possa "
+"verificar se não é um erro de carregamento de dados."
+
+# 3877778e11f9405ebdf0322b6f1b4e39
+#: ../../contents.rst:348
+msgid "Gestión de Datos"
+msgstr "Gerenciamento de dados"
+
+# c01a3d24f9494e588016230801a97f0e
+#: ../../contents.rst:350
+msgid ""
+"Presionando el botón **Gestión de Datos** desde la pantalla de "
+"programación se accede a esta pantalla que permite realizar una serie de "
+"operaciones relacionadas con el manejo de los datos registrados."
+msgstr ""
+"Ao pressionar o botão **Gerenciamento de Dados** na tela de  programação, você acessa essa tela que "
+"permite executar uma série de operações relacionadas ao gerenciamento dos dados gravados."
+
+# 48dcd809be6449a8901789ab1c163bc3
+#: ../../contents.rst:351
+msgid ""
+"El primer botón de **BackUp de Datos en USB** que permite grabar una "
+"copia de la base de datos del equipo en un pendrive conectado al puerto "
+"USB."
+msgstr ""
+"O primeiro botão **USB Data BackUp** que permite gravar uma cópia do banco de dados do computador em "
+"um pendrive conectado à porta USB."
+
+# 7fe10e787e4047e49d0c650e459283f4
+#: ../../contents.rst:352
+msgid ""
+"La segunda opción es **Restaurar Datos desde USB** en la cual se produce "
+"la operación inversa, es decir se configura el equipo con los datos "
+"previamente guardados en un dispositivo de almacenamiento."
+msgstr ""
+"A segunda opção é **Restaurar Dados de USB** em que ocorre a operação inversa, ou seja, o computador é "
+"configurado com os dados salvos anteriormente em um dispositivo de armazenamento."
+
+# b7d0d8ed280c4d419cd7e700dc398202
+#: ../../contents.rst:357
+msgid "Pantalla de Gestión de Datos – Exportar a en Formato XML"
+msgstr "Tela de gerenciamento de dados – Exportar para em formato XML"
+
+# 9d5f50041f0346ffa425242339543325
+#: ../../contents.rst:359
+msgid ""
+"La siguiente opción de **Exportar en XLM en USB** permite grabar los "
+"datos del equipo en un formato XLM para poder visualizarlos en una "
+"planilla de cálculo (Excel)."
+msgstr ""
+"A seguinte opção de Exportar em XLM em USB permite que você salve os dados do equipamento em um formato "
+"XLM para poder visualizá-lo em uma planilha (Excel)."
+
+# 4e5402c67cc84824a8df8155d3bfa9ba
+#: ../../contents.rst:361
+msgid ""
+"Esta opción graba en la primera pestaña los rodeos definidos y la "
+"cantidad de animales que contienen; en las siguientes pestañas la "
+"información de los animales de cada rodeo y los parámetros de "
+"alimentación configurados para cada uno y finalmente una pestaña con "
+"todos los registros de alimentación grabados por el equipo dentro del "
+"período seleccionado en la pantalla."
+msgstr ""
+"Esta opção regista na primeira aba os rodeios definidos e o número de animais"
+"que contêm; Nas abas a seguir as informações dos animais de cada"
+"rebanho e os parâmetros de alimentação configurados para cada um e, por fim, uma aba com todos "
+"os registros de alimentação registrados pelo equipamento dentro do período selecionado na tela."
+
+# 1bd23da001844cf49cb550c3698d78be
+#: ../../contents.rst:364
+msgid ""
+"Cada registro incluye la caravana física y electrónica del animal que "
+"ingresó; el rodeo al cual pertenece; la cantidad de suplemento "
+"administrada; la fecha y hora de administración y la clasificación "
+"descripta anteriormente, es decir, si se trató de una comida normal, de "
+"un robo, un animal en rodeo no activo o un animal no registrado en la "
+"base de datos."
+msgstr ""
+"Cada registro inclui a caravana física e eletrônica do animal que entrou; o rodeio a que pertence; a "
+"quantidade de suplemento administrado; A data e a hora de administração e a classificação acima descrita, "
+"ou seja, se se tratava de uma refeição normal, de um roubo, de um animal de um rodeio inativo ou de um animal "
+"não registado na base de dados."
+
+# 826a113ea55f464d8b57a0d3670a98d6
+#: ../../contents.rst:369
+msgid "Pantalla de Gestión de Datos – Limpiar Datos"
+msgstr "Tela de Gerenciamento de Dados – Dados Limpos"
+
+# 50472e426b1647d09da00b7b2d89d1de
+#: ../../contents.rst:371
+msgid ""
+"La última opción es **Limpiar Datos**. Esta opción permite borrar los "
+"datos que se van acumulando debido a la programación o a lo largo de la "
+"operación del equipo. La primera posibilidad es borrar todos los "
+"registros de comidas pero mantener la definición de Rodeos, Animales y "
+"Parámetros de Alimentación. La segunda posibilidad es borrar "
+"absolutamente todos los datos y dejar al equipo como sale de fábrica."
+msgstr ""
+"A última opção é Limpar dados. Esta opção permite-lhe eliminar os dados que se acumulam devido à programação "
+"ou ao longo do funcionamento do equipamento. A primeira possibilidade é excluir todos os registros alimentares, "
+"mas manter a definição de Rodeios, Animais e Parâmetros de Alimentação. A segunda possibilidade é apagar "
+"absolutamente todos os dados e deixar o computador como ele sai da fábrica."
+
+# f571d479799340039e2b3dbb5f4c46fb
+#: ../../contents.rst:377
+msgid "Reportes"
+msgstr "Relatórios"
+
+# 61feb5145ebc4fcfac812406708b1826
+#: ../../contents.rst:379
+msgid ""
+"Se puede acceder a la información sobre el funcionamiento del equipo y la"
+" alimentación suministrada a los animales presionando el botón "
+"**Reportes** en la pantalla principal."
+msgstr ""
+"Informações sobre o funcionamento do equipamento e a ração fornecida aos animais podem ser acessadas pressionando "
+"o botão **Relatórios** na tela principal."
+
+# a45d10261b294266a73c61868bbfb1e9
+#: ../../contents.rst:384
+msgid "Pantalla de Reporte, selección de Rodeos y Fechas"
+msgstr "Tela de Relatório, seleção de Rodeios e Datas"
+
+# b5c4f04307ba4e5b8aa753b067e682a4
+#: ../../contents.rst:386
+msgid ""
+"Como primer paso debemos seleccionar el rodeo o los rodeos para los que "
+"queremos generar el reporte. Además debemos seleccionar el período, "
+"presionando la fecha de inicio y fin en el calendario."
+msgstr ""
+"Como primeiro passo, devemos selecionar o rodeio ou rodeios para os quais "
+"queremos gerar o relatório. Também devemos selecionar o período, pressionando "
+"a data de início e término no calendário."
+
+# 1058582f40c94e7ca1da7c71aaf9514a
+#: ../../contents.rst:391
+msgid "Pantalla de Reporte – Datos Principales"
+msgstr "Tela de Relatório – Fatos Importantes"
+
+# a4d3c45332ae49dda4bb72960c3dcb49
+#: ../../contents.rst:393
+msgid ""
+"La primera tabla del reporte nos muestra datos generales: el o los rodeos"
+" seleccionados, la cantidad de animales que contienen y los parámetros de"
+" dosificación que se han utilizado."
+msgstr ""
+"A primeira tabela do relatório mostra-nos dados gerais: o(s) efectivo(s) "
+"seleccionado(s), o número de animais que contêm e os parâmetros de dosagem "
+"utilizados."
+
+# a0dd7d75a31d4b36a06cfd7be5a839a9
+#: ../../contents.rst:397
+msgid ""
+"También muestra la eficiencia de suplementación global del equipo durante"
+" dicho periodo. Este parámetro es la relación entre la cantidad de veces "
+"que el equipo efectivamente suministró una ración sobre la cantidad de "
+"veces máximas que el equipo podría haber funcionado. Por ejemplo, si "
+"seleccionamos un lapso de 20 días y si hay 100 animales en el rodeo "
+"habilitado con 5 raciones por día, la cantidad máxima de veces que el "
+"equipo puede funcionar es de 20 días x 100 animales x 5 raciones = 10.000"
+" veces. Entonces, si el equipo marca una eficiencia global de 83 % quiere"
+" decir que en el período seleccionado administró alimento unas 8.300 "
+"veces."
+msgstr ""
+"Também mostra a eficiência geral de suplementação do equipamento durante esse "
+"período. Este parâmetro é a razão entre o número de vezes que o equipamento "
+"realmente forneceu uma ração para o número máximo de vezes que o equipamento "
+"poderia ter funcionado. Por exemplo, se selecionarmos um período de 20 dias e "
+"se houver 100 animais no rodeio habilitados com 5 porções por dia, o número máximo "
+"de vezes que o equipamento pode funcionar é de 20 dias x 100 animais x 5 porções "
+" = 10.000 vezes. Assim, se o equipamento marca uma eficiência global de 83%, isso "
+" significa que no período selecionado ele administrou alimentos cerca de 8.300 vezes."
+
+
+# 271cbf85e899408583253e1a187efc90
+#: ../../contents.rst:398
+msgid ""
+"Además muestra el porcentaje total de robos registrados respecto al peso "
+"de alimento total suministrado."
+msgstr ""
+"Mostra também o percentual total de roubos registrados em relação ao peso do total de "
+"alimentos fornecidos."
+
+# 3282e4ce235f4f5a9f1ef8fb92f3618a
+#: ../../contents.rst:403
+msgid "Tabla General de Reporte"
+msgstr "Tabela de Relatórios Gerais"
+
+# 0a5ee40c03394cf49612f2b78f8172ed
+#: ../../contents.rst:405
+msgid ""
+"El reporte muestra en una tabla la clasificación de animales según las "
+"veces que han recibido comida. Esta tabla sirve para evaluar el proceso "
+"de adaptación, ya que los animales se clasifican en *Adaptados* si han "
+"recibido comida más de 10 veces, *En adaptación* si han recibido entre 5 "
+"y 10 raciones y *No adaptados* si han recibido suplementación menos de 5 "
+"veces o no han ingresado."
+msgstr ""
+"O relatório mostra em uma tabela a classificação dos animais de acordo com os horários "
+"em que receberam alimentos. Esta tabela serve para avaliar o processo de adaptação, uma "
+"vez que os animais são classificados como *Adaptados* se tiverem recebido alimento mais de "
+"10 vezes, *Em adaptação* se tiverem recebido entre 5 e 10 porções e *Não Adaptados* se tiverem "
+"recebido suplementação inferior a 5 vezes ou não tiverem entrado. "
+
+# 81c55a95862e4a7884eb3ba7d3745a54
+#: ../../contents.rst:411
+msgid "Tabla de Adaptación de Animales"
+msgstr "Tabela de Adaptação Animal"
+
+# 61951bc8f211470e9b9f46fa57bad5a9
+#: ../../contents.rst:413
+msgid ""
+"La siguiente tabla que muestra el reporte es una tabla de doble entrada, "
+"que permite hacer una evaluación más detallada.  El primer criterio "
+"utilizado es el porcentaje global de raciones recibida de cada animal y "
+"el segundo criterio es el porcentaje de días en los que el animal ha "
+"utilizado el equipo."
+msgstr ""
+"A próxima tabela mostrada no relatório é uma tabela de dupla entrada, que permite uma "
+"avaliação mais detalhada. O primeiro critério utilizado é a percentagem global de rações "
+"recebidas de cada animal e o segundo critério é a percentagem de dias em que o animal utilizou "
+"o equipamento."
+
+# dcb43ee7f99048beaaeed4bcceaed11e
+#: ../../contents.rst:420
+msgid "Tabla de doble entrada de Adaptación de Animales"
+msgstr "Tabela de dupla entrada de Adaptação Animal"
+
+# b59116a3dfe34fb580732370be609949
+#: ../../contents.rst:422
+msgid ""
+"A continuación se muestra una tabla que permite cuantificar los robos de "
+"raciones y un listado de los animales que han robado, en donde se muestra"
+" el porcentaje de comida robada de cada uno, respecto a la cantidad "
+"asignada, ordenada de mayor a menor. Esto permite evaluar las situaciones"
+" de robo y tomar decisiones en cuanto a los animales que tienen este "
+"comportamiento, como por ejemplo, bajar la dosis individual al mínimo o "
+"apartarlos del rodeo."
+msgstr ""
+"Abaixo está uma tabela que permite quantificar o roubo de rações e uma lista dos animais que "
+"foram roubados, que mostra a porcentagem de alimentos roubados de cada um, com relação à quantidade "
+"atribuída, encomendada do maior para o menor. Isso permite avaliar as situações de roubo e tomar "
+"decisões em relação aos animais que apresentam esse comportamento, como baixar a dose individual ao "
+"mínimo ou retirá-los do rodeio."
+
+# 2759e1f8402a4e6592866673209b9b23
+#: ../../contents.rst:429
+msgid "Tabla de Registro de Robos"
+msgstr "Tabela de Registro de Roubo"
+
+# 21526e47ccd446959757e0b3b65257fe
+#: ../../contents.rst:431
+msgid ""
+"Al final se muestra una tabla que contiene a los animales que han "
+"ingresado a la boca de alimentación que estaban cargados en Rodeos que en"
+" ese momento no estaban habilitados para suministrar alimento. "
+"Adicionalmente se muestra una tabla de animales que ingresaron a comer "
+"cuyos números de caravanas electrónicas no estaban registrados en la base"
+" de datos. Esta información se muestra a los efectos de que el usuario "
+"pueda verificar que no se trate de un error de carga de datos. Puede "
+"grabar el informe en un archivo con formato PDF en un pendrive "
+"presionando el botón **Guardar PDF**."
+msgstr ""
+"No final há uma tabela contendo os animais que entraram na boca de alimentação que foram "
+"carregados em rodeios que na época não estavam autorizados a fornecer alimento. Além disso, "
+"é mostrada uma tabela de animais que entraram para comer cujos números de caravanas eletrônicas "
+"não foram registrados no banco de dados. Essas informações são exibidas para que o usuário possa "
+"verificar se não é um erro de carregamento de dados. Você pode salvar o relatório em um arquivo PDF "
+"em uma unidade flash pressionando o botão **Salvar PDF**."
+
+# 97031760e6b543eca3e28e165e1cdb2e
+#: ../../contents.rst:439
+msgid ""
+"Tabla de Animales en Rodeos Deshabilitados, Animales No Registrados y "
+"Guardado en formato PDF"
+msgstr ""
+"Tabela de Animais em Rodeios Deficientes, Animais Não Registrados e "
+"Salvos em formato PDF"
+
+# bbec14af87ad4663a5159215f8fb9dab
+#: ../../contents.rst:441
+msgid "**Conexión de Dispositivos al Suplementador**"
+msgstr "**Conectando dispositivos ao suplemento**"
+
+# a8254f06547542d989766de6a1d57d10
+#: ../../contents.rst:443
+msgid ""
+"Es posible conectar teléfonos o dispositivos al Suplementador mediante "
+"WiFi a los efectos de generar, visualizar, grabar o compartir los "
+"reportes. Para esto deberá conectar su dispositivo a la red llamada "
+"“Suplementar ” e ingresar a la página “ www.suplementar.tkx “ en donde "
+"podrá ver las mismas pantallas de reportes como si estuviera viendo la "
+"pantalla del suplementador. Desde su dispositivo se podrá guardar el "
+"reporte en formato PDF presionando el botón **Guardar PDF**. Luego podrá "
+"compartirlo por correo o mensajería."
+msgstr ""
+"É possível conectar telefones ou dispositivos ao Suplementador via Wi-Fi com a finalidade "
+"de gerar, visualizar, gravar ou compartilhar relatórios. Para isso, você deve conectar seu "
+"dispositivo à rede chamada "Suplemento" e entrar na página "www.suplementar.tkx", onde você "
+"pode ver as mesmas telas de relatórios como se estivesse visualizando a tela do suplemento. "
+"A partir do seu dispositivo, você pode salvar o relatório em formato PDF pressionando o botão "
+" **Salvar PDF**. Em seguida, você pode compartilhá-lo por e-mail ou mensagens."
+
+# a7caebb5ba524ceab5cca39806c7954e
+#: ../../contents.rst:449
+msgid "Datos de Contacto"
+msgstr "Detalhes de Contato"
+
+# acd7bee86c784d92951d2e6bb741fa89
+#: ../../contents.rst:451
+msgid "**Contacto Directo**"
+msgstr "**Contato Direto**"
+
+# 3e4ec0c801cb45eea866e64fe2e94da5
+#: ../../contents.rst:453
+msgid "Por información comercial contactarse a:"
+msgstr "Para informações comerciais, contacte:"
+
+# b78fe33bfa474bf887664d27352a148e
+#: ../../contents.rst:455
+msgid "Correo: info@suplementarsas.com"
+msgstr "E-mail: info@suplementarsas.com"
+
+# 16944e671b4c444d9eb8a899a240de65
+#: ../../contents.rst:457
+msgid "Teléfono: +54 - 9 - 351 7305203 Dario Irico"
+msgstr "Telefone: +54 - 9 - 351 7305203 Dario Irico"
+
+# 9964965776ab4109b915a546ac958419
+#: ../../contents.rst:460
+msgid "Para consultas por asistencia técnica contactarse a:"
+msgstr "Para consultas de assistência técnica, entre em contato com:"
+
+# 7ee9031e74d941d9b0ee7b85782ce813
+#: ../../contents.rst:462
+msgid "Correo: asistencia@suplementarsas.com"
+msgstr "E-mail: asistencia@suplementarsas.com"
+
+# ab800908bfdd4ae0b99eba74229a4643
+#: ../../contents.rst:464
+msgid "Teléfono: +54 - 9 - 351 3599649 José Luperi"
+msgstr "Telefone: +54 - 9 - 351 3599649 José Luperi"
+
+# c2ae465261fb449ca6d3f4c6021dc622
+#: ../../contents.rst:466
+msgid "**Página Web**"
+msgstr "**Página Web**"
+
+# 06065ec24b8445f9ae8f2529b9dcb706
+#: ../../contents.rst:470
+msgid "Podrá ver más información en nuestra Sitio_."
+msgstr "Você pode ver mais informações em nosso Site_."
+
+# 34cce007569544e292450e26d1ad6019
+#: ../../contents.rst:472
+msgid "**Instagram**"
+msgstr "**Instagram**"
+
+# d712813a5c5c4833a24ac25150b19bb9
+#: ../../contents.rst:476
+msgid "También nos puede encontrar en nuestro Instagram_."
+msgstr "Você também pode nos encontrar em nosso Instagram_."
+
