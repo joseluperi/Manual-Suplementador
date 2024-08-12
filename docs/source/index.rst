@@ -31,8 +31,8 @@ El Suplementador Inteligente posee las siguientes ventajas:
 * **Somos más eficientes:** Al poder regular la ingesta de cada animal usamos mejor el alimento, tenemos más información, reducimos el trabajo y podemos producir más, por ende somos más eficientes. 
 
 En las primeras secciones puede conocer más sobre el :ref:`Funcionamiento General <funcGeneral>` y las :ref:`Recomendaciones de Uso <recomenUso>`.
-También podrá ver cómo se realiza la :ref:`Programación <programacion>` y ver cómo se generan los :ref:`Reportes <reportes>`. . Finalmente se muestran la Plataforma 
-de Seguimiento Online y las Referencias técnicas.
+También podrá ver cómo se realiza la :ref:`Programación <programacion>` y ver cómo se generan los :ref:`Reportes <reportes>`. . Finalmente se muestran la 
+:ref:`Plataforma de Seguimiento Online <seguimientoOnline>` y :ref:`El manejo Remoto del Equipo <manejoRemoto>`.
 
 
 .. figure:: images/Suplementador.png
@@ -48,7 +48,7 @@ Funcionamiento
 Características Generales
 -------------------------
 
-El equipo facilita la tarea de administrar la suplementación nutricional de los vacunos a campo. El mismo trabaja suministrado porciones de suplementos. 
+| El equipo facilita la tarea de administrar la suplementación nutricional de los vacunos a campo. El mismo trabaja suministrado porciones de suplementos. 
 | Funciona con cualquier producto seco, ya sea en forma de harina, molido, entero o peleteado (Ej.: Maíz entero o partido, expeller de soja,  concentrados proteicos, productos comerciales, etc.). 
 | Está concebido para funcionar de manera automática y autónoma en el lugar donde los animales están pastando, alimentándose con energía solar y almacenándola en baterías de ciclo profundo.
 | El equipo de dos bocas de alimentación tiene una tolva de 1,2 metros cúbicos en donde se coloca a granel el alimento. 
@@ -60,12 +60,12 @@ El equipo facilita la tarea de administrar la suplementación nutricional de los
 Modo de Operación
 -----------------
 
-Para su funcionamiento, el equipo agrupa a los animales en *Rodeos*, es decir ,de grupos de animales que por lo general tendrán características similares y una configuración de suplementación compartida. Los Rodeos también sirven para organizar la información en los reportes.
+| Para su funcionamiento, el equipo agrupa a los animales en *Rodeos*, es decir ,de grupos de animales que por lo general tendrán características similares y una configuración de suplementación compartida. Los Rodeos también sirven para organizar la información en los reportes.
 | Se pueden elegir dos modos de operación:
 
 **Modo de Rodeos Fijos**
 
-Este modo de operación permite dar diferentes cantidades de comida a distintas categorías, por más que estén mezclados en un mismo lote y es el que normalmente se utiliza una vez que los animales están cargados en el sistema.
+| Este modo de operación permite dar diferentes cantidades de comida a distintas categorías, por más que estén mezclados en un mismo lote y es el que normalmente se utiliza una vez que los animales están cargados en el sistema.
 | Cuando el equipo se activa en el modo de Rodeos Fijos se pueden seleccionar un rodeo o más de uno para que les dé alimento a esos animales.
 | Cuando un animal ingresa a la boca, el equipo lo identifica mediante su caravana electrónica; busca al animal dentro de los rodeos seleccionados y le da la ración de alimento programada de acuerdo a su configuración si es que le corresponde. Si el animal no está cargado o pertenece a un rodeo no seleccionado, no recibirá comida.
 | De esta manera, por ejemplo, podríamos asignarle 1 kg diario a un Rodeo de terneros y 2 kg diarios a un Rodeo de Vacas simultáneamente.
@@ -74,7 +74,7 @@ Este modo de operación permite dar diferentes cantidades de comida a distintas 
 **Modo de Carga Automática**
 
 
-Este modo de operación facilita la carga de las caravanas electrónicas nuevas. Bajo este modo de operación se puede seleccionar solo un Rodeo y todo animal que ingrese a la boca de alimentación se carga en el Rodeo seleccionado. 
+| Este modo de operación facilita la carga de las caravanas electrónicas nuevas. Bajo este modo de operación se puede seleccionar solo un Rodeo y todo animal que ingrese a la boca de alimentación se carga en el Rodeo seleccionado. 
 | Si el número de caravana electrónica no está cargado en el sistema, se crea un nuevo animal con nombre (caravana física) genérico y se agrega al Rodeo seleccionado, asignándole la animal la configuración de comidas del Rodeo. Si el animal estaba cargado en otro Rodeo se cambia al Rodeo seleccionado.
 
 
@@ -142,7 +142,7 @@ Al presionar en los recuadros de texto se despliega un teclado para escribir, al
 
 **Parámetros de Alimentación**
 
-El siguiente paso es definir los parámetros de alimentación del rodeo. Para esto debemos presionar el botón principal **Alimento** y luego en **Asignar**. 
+| El siguiente paso es definir los parámetros de alimentación del rodeo. Para esto debemos presionar el botón principal **Alimento** y luego en **Asignar**. 
 | Los parámetros de alimentación se pueden definir por rodeo, es decir de manera grupal a todos los animales que lo integran o de manera individual,  es decir parámetros especiales sólo para este animal. Al ingresar a la pantalla de dosificación  aparecerá una lista que contiene los rodeos existentes  resaltados en color *azul* y bajo cada rodeo se muestran los animales que contienen por medio de su caravana física. 
 | Si los animales no están remarcados en la lista significa que se guiará por la definición grupal pero si un animal se encuentra resaltado en color *verde*, significa  que tiene asignado parámetros de suplementación individual.
 | El rodeo o animal que ud. seleccione se verá resaltado de color *amarillo*, como en las demás pantallas.
@@ -170,7 +170,7 @@ En la pantalla que se abre se configuran los siguientes parámetros de alimentac
 
 Si configuramos la alimentación con los siguientes parámetros:
 
-Peso diario: 2 kilogramos
+| Peso diario: 2 kilogramos
 | Fraccionar en: 6 fracciones
 | Tiempo mínimo: 50 segundos
 | Tiempo de Robo: 30 segundos 
@@ -503,6 +503,7 @@ de carga de las baterías o si un determinado animal no entró en los últimos 2
 
 
 .. _manejoRemoto:
+
 
 Manejo Remoto del Equipo
 ========================
