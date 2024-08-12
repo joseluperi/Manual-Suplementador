@@ -377,6 +377,11 @@ Cuando se ha activado el equipo se puede acceder, presionando el botón **Estado
 Los animales se muestran en una columna por rodeo, ordenados desde los que menos comieron a los que mayor porcentaje ingirieron. De esta manera se puede visualizar de forma simple y rápida para identificar 
 situaciones como animales que no están comiendo y ver el funcionamiento general. 
 
+.. figure:: images/Pantalla_Estado_Diario.png
+   :width: 600
+   
+   Pantalla de Estado Diario de Alimento
+
 
 Reporte de Alimentación
 -----------------------
