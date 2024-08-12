@@ -752,7 +752,7 @@ Operación
 El equipo dispone de un regulador de voltaje que cumple la función de convertir la energía que genera el panel fotovoltaico al voltaje adecuado para cargar las baterías y operar el equipo. 
 El encendido o apagado del equipo se activa presionando el botón inferior *ON/OFF*. Mediante los botones botón *MENU* y los botones arriba/abajo *UP/DOWN* y la pantalla LED 
 es posible visualizar todos los parámetros de operación, incluyendo voltaje de las baterías, corriente de carga fotovoltaica y corriente de descarga.
-
+ 
 .. figure:: images/Regulador_Voltaje.png
    :width: 300
    
