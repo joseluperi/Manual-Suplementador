@@ -48,45 +48,34 @@ Funcionamiento
 Características Generales
 -------------------------
 
-| El equipo facilita la tarea de administrar la suplementación nutricional de los vacunos a campo. El mismo trabaja suministrado porciones de suplementos. 
-| Funciona con cualquier producto seco, ya sea en forma de harina, molido, entero o peleteado (Ej.: Maíz entero o partido, expeller de soja, 
- concentrados proteicos, productos comerciales, etc.). 
-| Está concebido para funcionar de manera automática y autónoma en el lugar donde los animales están pastando, alimentándose con energía solar 
- y almacenándola en baterías de ciclo profundo.
+El equipo facilita la tarea de administrar la suplementación nutricional de los vacunos a campo. El mismo trabaja suministrado porciones de suplementos. 
+| Funciona con cualquier producto seco, ya sea en forma de harina, molido, entero o peleteado (Ej.: Maíz entero o partido, expeller de soja,  concentrados proteicos, productos comerciales, etc.). 
+| Está concebido para funcionar de manera automática y autónoma en el lugar donde los animales están pastando, alimentándose con energía solar y almacenándola en baterías de ciclo profundo.
 | El equipo de dos bocas de alimentación tiene una tolva de 1,2 metros cúbicos en donde se coloca a granel el alimento. 
 | Un solo equipo de dos bocas permite suplementar un rodeo de hasta 100 animales aproximadamente (dependiendo la categoría de animales y cantidad de fracciones diarias). 
-| Funciona por medio de radiofrecuencia, tomando lectura de las caravanas electrónicas de los animales. Esto lo hace a través de antenas que se 
- ubican en las bocas de suplementación, una vez detectado y reconocido el animal suministra una cantidad de alimento previamente programada si es que corresponde de 
- acuerdo a la situación.
-| Permite ser eficientes en el uso del suplemento nutricional ya que al registrar todos los datos respecto a la alimentación de cada animal, se logra un mejor control y 
- manejo de la nutrición del ganado.
+| Funciona por medio de radiofrecuencia, tomando lectura de las caravanas electrónicas de los animales. Esto lo hace a través de antenas que se  ubican en las bocas de suplementación, una vez detectado y reconocido el animal suministra una cantidad de alimento previamente programada si es que corresponde de  acuerdo a la situación.
+| Permite ser eficientes en el uso del suplemento nutricional ya que al registrar todos los datos respecto a la alimentación de cada animal, se logra un mejor control y  manejo de la nutrición del ganado.
 | En las siguientes secciones se explica cómo utilizar el equipo; cómo programarlo y generar los reportes para supervisar el funcionamiento del mismo.
 
 Modo de Operación
 -----------------
 
-|Para su funcionamiento, el equipo agrupa a los animales en *Rodeos*, es decir, de grupos de animales que por lo general tendrán características similares y una 
-configuración de suplementación compartida. Los Rodeos también sirven para organizar la información en los reportes.
-|Se pueden elegir dos modos de operación:
+Para su funcionamiento, el equipo agrupa a los animales en *Rodeos*, es decir ,de grupos de animales que por lo general tendrán características similares y una configuración de suplementación compartida. Los Rodeos también sirven para organizar la información en los reportes.
+| Se pueden elegir dos modos de operación:
 
 **Modo de Rodeos Fijos**
 
-Este modo de operación permite dar diferentes cantidades de comida a distintas categorías, por más que estén mezclados en un mismo lote y es el que normalmente 
-se utiliza una vez que los animales están cargados en el sistema.
-|Cuando el equipo se activa en el modo de Rodeos Fijos se pueden seleccionar un rodeo o más de uno para que les dé alimento a esos animales.
-|Cuando un animal ingresa a la boca, el equipo lo identifica mediante su caravana electrónica; busca al animal dentro de los rodeos seleccionados y le da la ración 
-de alimento programada de acuerdo a su configuración si es que le corresponde. Si el animal no está cargado o pertenece a un rodeo no seleccionado, no recibirá comida.
-|De esta manera, por ejemplo, podríamos asignarle 1 kg diario a un Rodeo de terneros y 2 kg diarios a un Rodeo de Vacas simultáneamente.
+Este modo de operación permite dar diferentes cantidades de comida a distintas categorías, por más que estén mezclados en un mismo lote y es el que normalmente se utiliza una vez que los animales están cargados en el sistema.
+| Cuando el equipo se activa en el modo de Rodeos Fijos se pueden seleccionar un rodeo o más de uno para que les dé alimento a esos animales.
+| Cuando un animal ingresa a la boca, el equipo lo identifica mediante su caravana electrónica; busca al animal dentro de los rodeos seleccionados y le da la ración de alimento programada de acuerdo a su configuración si es que le corresponde. Si el animal no está cargado o pertenece a un rodeo no seleccionado, no recibirá comida.
+| De esta manera, por ejemplo, podríamos asignarle 1 kg diario a un Rodeo de terneros y 2 kg diarios a un Rodeo de Vacas simultáneamente.
 
 
 **Modo de Carga Automática**
 
 
-Este modo de operación facilita la carga de las caravanas electrónicas nuevas. Bajo este modo de operación se puede seleccionar solo un Rodeo y todo animal que 
-ingrese a la boca de alimentación se carga en el Rodeo seleccionado. 
-|Si el número de caravana electrónica no está cargado en el sistema, se crea un nuevo animal 
-con nombre (caravana física) genérico y se agrega al Rodeo seleccionado, asignándole la animal la configuración de comidas del Rodeo. Si el animal estaba cargado 
-en otro Rodeo se cambia al Rodeo seleccionado.
+Este modo de operación facilita la carga de las caravanas electrónicas nuevas. Bajo este modo de operación se puede seleccionar solo un Rodeo y todo animal que ingrese a la boca de alimentación se carga en el Rodeo seleccionado. 
+| Si el número de caravana electrónica no está cargado en el sistema, se crea un nuevo animal con nombre (caravana física) genérico y se agrega al Rodeo seleccionado, asignándole la animal la configuración de comidas del Rodeo. Si el animal estaba cargado en otro Rodeo se cambia al Rodeo seleccionado.
 
 
 .. _programacion:
@@ -128,15 +117,11 @@ Al presionar en los recuadros de texto se despliega un teclado para escribir, al
 
 **Definición Manual de Animales**
 
-| Al presionar el botón **Animales** podremos **Agregar** animales manualmente (ver opción de Carga Automática); **Eliminar** los mismos; **Modificar**
-sus datos o **Buscar** un animal ya cargado para modificarlo.
-| Para **Agregar** un nuevo animal debemos seleccionar el rodeo de la lista existente, ingresamos
-*Número de Caravana* (Caravana Física, tarjeta o identificación propia) y el *Número de Tag* (número que tiene impreso la caravana electrónica).
+| Al presionar el botón **Animales** podremos **Agregar** animales manualmente (ver opción de Carga Automática); **Eliminar** los mismos; **Modificar** sus datos o **Buscar** un animal ya cargado para modificarlo.
+| Para **Agregar** un nuevo animal debemos seleccionar el rodeo de la lista existente, ingresamos *Número de Caravana* (Caravana Física, tarjeta o identificación propia) y el *Número de Tag* (número que tiene impreso la caravana electrónica).
 | Al seleccionar **Guardar** quedan registrados los datos. Este proceso se repite para incorporar todos los animales a los que se quiere suplementar.
-| Una vez guardados los animales figuran en la lista de la izquierda, en donde figura el número de rodeo, seguido de la identificación y el número de Tag.
-( Por ejemplo *R1: TORO JOVEN 1 (809123565445612)* ).
-| Generalmente los números de caravanas y de caravanas electrónicas son sucuenciales, o se repite la mayoría de los números, para esto se pueden utilizar 
-los botones **Copiar** y **Pegar**, que facilitan el ingreso de los datos.
+| Una vez guardados los animales figuran en la lista de la izquierda, en donde figura el número de rodeo, seguido de la identificación y el número de Tag. ( Por ejemplo *R1: TORO JOVEN 1 (809123565445612)* ).
+| Generalmente los números de caravanas y de caravanas electrónicas son sucuenciales, o se repite la mayoría de los números, para esto se pueden utilizar los botones **Copiar** y **Pegar**, que facilitan el ingreso de los datos.
 | También se puede modificar los datos de un animal o eliminarlo seleccionándolo de la lista. 
 
 .. figure:: images/Programar_Animales.png
@@ -157,17 +142,12 @@ los botones **Copiar** y **Pegar**, que facilitan el ingreso de los datos.
 
 **Parámetros de Alimentación**
 
-| El siguiente paso es definir los parámetros de alimentación del rodeo. Para esto debemos presionar el botón principal **Alimento** y luego en **Asignar**. 
-| Los parámetros de alimentación se pueden definir por rodeo, es decir de manera grupal a todos los animales que lo integran o de manera individual, 
- es decir parámetros especiales sólo para este animal. Al ingresar a la pantalla de dosificación  aparecerá una lista que contiene los rodeos existentes 
- resaltados en color *azul* y bajo cada rodeo se muestran los animales que contienen por medio de su caravana física. 
-| Si los animales no están remarcados en la lista significa que se guiará por la definición grupal pero si un animal se encuentra resaltado en color *verde*, significa 
- que tiene asignado parámetros de suplementación individual.
+El siguiente paso es definir los parámetros de alimentación del rodeo. Para esto debemos presionar el botón principal **Alimento** y luego en **Asignar**. 
+| Los parámetros de alimentación se pueden definir por rodeo, es decir de manera grupal a todos los animales que lo integran o de manera individual,  es decir parámetros especiales sólo para este animal. Al ingresar a la pantalla de dosificación  aparecerá una lista que contiene los rodeos existentes  resaltados en color *azul* y bajo cada rodeo se muestran los animales que contienen por medio de su caravana física. 
+| Si los animales no están remarcados en la lista significa que se guiará por la definición grupal pero si un animal se encuentra resaltado en color *verde*, significa  que tiene asignado parámetros de suplementación individual.
 | El rodeo o animal que ud. seleccione se verá resaltado de color *amarillo*, como en las demás pantallas.
-| Para definir los parámetros para todo el grupo (por rodeo) se selecciona el rodeo de la lista y se presiona el botón **Modificar Rodeo**, cuando se selecciona un 
-animal el botón cambia su descripción a **Modificar Animal**, por lo que estaremos modificando a ese animal solamente y los parámetros del Rodeo permanecerán sin cambios.
-En caso de querer borrar la configuración individual y resetear sus parámetros de alimentación a los valores del Rodeo al que pertenece se debe seleccionar del listado y 
-se habilitará el botón **Tratar Como Grupo**, que permite borrar su configuración individual.
+| Para definir los parámetros para todo el grupo (por rodeo) se selecciona el rodeo de la lista y se presiona el botón **Modificar Rodeo**, cuando se selecciona un animal el botón cambia su descripción a **Modificar Animal**, por lo que estaremos modificando a ese animal solamente y los parámetros del Rodeo permanecerán sin cambios.
+| En caso de querer borrar la configuración individual y resetear sus parámetros de alimentación a los valores del Rodeo al que pertenece se debe seleccionar del listado y se habilitará el botón **Tratar Como Grupo**, que permite borrar su configuración individual.
 
 .. figure:: images/Parametros_Alimento.png
    :width: 600
@@ -243,7 +223,7 @@ Calibración de Dosificación
 
 | La calibración de dosificación se debe realizar solamente al poner en funcionamiento el equipo por primera vez o en caso de cambiar el tipo de suplemento. 
 | Se ingresa a la pantalla presionando **Alimento** y luego **Calibrar**. 
-|Para una calibración más certera la calibración se realiza con una cantidad de alimento que sea similar a las fracciones que el equipo suministrará luego en modo automático. 
+| Para una calibración más certera la calibración se realiza con una cantidad de alimento que sea similar a las fracciones que el equipo suministrará luego en modo automático. 
 | Es por esto que el primer paso consiste en ingresar el peso en gramos con el que se desea calibrar. Luego se selecciona la boca de expendio que se quiere calibrar. 
 
 .. figure:: images/Pantalla_Calibracion_Inicio.png
@@ -377,11 +357,11 @@ Cuando se ha activado el equipo se puede acceder, presionando el botón **Estado
 Los animales se muestran en una columna por rodeo, ordenados desde los que menos comieron a los que mayor porcentaje ingirieron. De esta manera se puede visualizar de forma simple y rápida para identificar 
 situaciones como animales que no están comiendo y ver el funcionamiento general. 
 
+
 .. figure:: images/Pantalla_Estado_Diario.png
    :width: 600
    
    Pantalla de Estado Diario de Alimento
-
 
 Reporte de Alimentación
 -----------------------
@@ -422,10 +402,7 @@ Debajo de esto se muestra una tabla con datos generales:
    
    Pantalla de Reporte – Datos Principales
 
-| La eficiencia Global indica qué porcentaje de suplementación suministró equipo durante dicho periodo. Es  la relación entre la cantidad de veces que el equipo efectivamente suministró una ración sobre 
-la cantidad de veces máximas que el equipo podría haber funcionado. Por ejemplo, si seleccionamos un lapso de 20 días y si hay 100 animales en el rodeo habilitado con 5 raciones por día, la cantidad máxima 
-de veces que el equipo puede funcionar es de 20 días x 100 animales x 5 raciones = 10.000 veces. Entonces, si el equipo marca una eficiencia global de 83 % quiere decir que en el período seleccionado 
-administró alimento unas 8.300 veces.
+| La eficiencia Global indica qué porcentaje de suplementación suministró equipo durante dicho periodo. Es  la relación entre la cantidad de veces que el equipo efectivamente suministró una ración sobre la cantidad de veces máximas que el equipo podría haber funcionado. Por ejemplo, si seleccionamos un lapso de 20 días y si hay 100 animales en el rodeo habilitado con 5 raciones por día, la cantidad máxima de veces que el equipo puede funcionar es de 20 días x 100 animales x 5 raciones = 10.000 veces. Entonces, si el equipo marca una eficiencia global de 83 % quiere decir que en el período seleccionado administró alimento unas 8.300 veces.
 | Además muestra el porcentaje total de robos registrados respecto al peso de alimento total suministrado.
 | Los animales que han ingresado en el período seleccionado a las bocas de expendio pero que no recibieron comida por estar en *Rodeos No Habilitados* se muestran presionando el recuadro de **Animales Deshabilitados**.
 | Lo mismo sucede con los números de Caravanas que fueron identificadas pero que no están cargadas en el sistema, que figuran como **Animales No Cargados**.
@@ -617,7 +594,7 @@ Trabajando con el Software en nuestra computadora
 
 Una vez descargada la base de datos podemos ejecutar el programa en nuestra computadora ejecutando el archivo comedero.exe que se encuentra en la carpeta donde hemos extraído el archivo comprimido provisto por Suplementar.
 Al ejecutar ese archivo se abre el software de Suplementar donde nos avisará que No se encuentra el hardware (nuestra computadora no está conectada a las placas electrónicas que se encuentran en el suplementador) y nos dirá que se activa el Modo Demostración,
- en donde no se puede habilitar el Modo Automático. Sin embargo se podrá trabajar para ver reportes; guardarlos; cambiar la configuración de alimento; agregar / quitar Rodeo o Animales.
+en donde no se puede habilitar el Modo Automático. Sin embargo se podrá trabajar para ver reportes; guardarlos; cambiar la configuración de alimento; agregar / quitar Rodeo o Animales.
 
 **Guardando archivos en nuestra computadora**
 
