@@ -1,4 +1,4 @@
-version: 3
+version: "latest"
 
 build:
   os: "ubuntu-20.04"
