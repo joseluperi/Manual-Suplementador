@@ -2,8 +2,10 @@ version: "latest"
 
 build:
   os: "ubuntu-20.04"
-  tools:
+  tools: 
+    python: "3.12"
    
     
 sphinx:
+  configuration: docs/conf.py
   fail_on_warning: false
