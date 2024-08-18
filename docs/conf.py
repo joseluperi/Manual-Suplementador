@@ -2,7 +2,8 @@
 
 # -- Project information
 
-project = 'Manual de Suplementador Inteligente'
+# project = 'Manual de Suplementador Inteligente'
+project = 'Manual-Suplementador-Inteligente'
 copyright = '2022, Suplementar SAS.'
 author = 'Suplementar SAS'
 
