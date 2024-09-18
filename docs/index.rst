@@ -51,7 +51,7 @@ Características Generales
 | El equipo facilita la tarea de administrar la suplementación nutricional de los vacunos a campo. El mismo trabaja suministrado porciones de suplementos. 
 | Funciona con cualquier producto seco, ya sea en forma de harina, molido, entero o peleteado (Ej.: Maíz entero o partido, expeller de soja,  concentrados proteicos, productos comerciales, etc.). 
 | Está concebido para funcionar de manera automática y autónoma en el lugar donde los animales están pastando, alimentándose con energía solar y almacenándola en baterías de ciclo profundo.
-| El equipo de dos bocas de alimentación tiene una tolva de 1,2 metros cúbicos en donde se coloca a granel el alimento. 
+| El equipo de dos bocas de alimentación tiene una tolva de 3,3 metros cúbicos o aproximadamente 2,5 toneladas de alimento a granel. 
 | Un solo equipo de dos bocas permite suplementar un rodeo de hasta 100 animales aproximadamente (dependiendo la categoría de animales y cantidad de fracciones diarias). 
 | Funciona por medio de radiofrecuencia, tomando lectura de las caravanas electrónicas de los animales. Esto lo hace a través de antenas que se  ubican en las bocas de suplementación, una vez detectado y reconocido el animal suministra una cantidad de alimento previamente programada si es que corresponde de  acuerdo a la situación.
 | Permite ser eficientes en el uso del suplemento nutricional ya que al registrar todos los datos respecto a la alimentación de cada animal, se logra un mejor control y  manejo de la nutrición del ganado.
