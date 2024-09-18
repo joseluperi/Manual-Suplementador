@@ -566,7 +566,10 @@ Una vez que terminó de utilizar se recomienda desconectarse para no consumir da
 Modo de Trabajo en nuestra computadora
 --------------------------------------
 
-El primer paso es copiar el archivo de base de datos del equipo a nuestra computadora. Para eso debe acceder a la pantalla de gestión de archivos de AnyDesk haciendo click en el siguiente ícono:
+El primer paso es copiar el archivo de base de datos del equipo a nuestra computadora.
+Antes de transferir el archivo debemos ingresar al AnyDesk y cerrar el programa que se está ejecutando en el Suplementador. Para esto debemos ir a la Opción Programar> Salir e ingresar la contraseña 1-3-5-2-4-6 y presionar “Ok”. Al hacer esto se cierra el programa y se 
+ve el fondo de pantalla del sistema operativo.
+Luego acceder a la pantalla de gestión de archivos de AnyDesk haciendo click en el siguiente ícono:
 
 .. figure:: images/AnyDesk_Icono_Transferencia.png
    :width: 60
@@ -588,7 +591,21 @@ Para transferir el archivo de base de datos desde el Suplementador a nuestra com
    :width: 160
 
 Al presionar este botón aparecerá una ventana pequeña que muestra el progreso de transferencia del archivo y avisa cuando el archivo se descargó por completo.
-Una vez realizada la transferencia podemos cerrar el programa AnyDesk para trabajar en forma local en nuestra computadora.
+Una vez transferido el archivo debemos iniciar el programa en el Suplementador, presionando en el siguiente ícono de AnyDesk:
+
+.. figure:: images/AnyDesk_Icono_Pantalla.png
+   :width: 40
+
+Para iniciar el programa de Suplementar esto se debe presionar el ícono:
+
+.. figure:: images/Icono_Suplementar.png
+   :width: 40
+
+Este ícono se encuentra en la barra de abajo del sistema operativo (si no se ve la barra se debe acercar el puntero al extremo inferior de la pantalla). Tenga la precaución presionar una sola vez y esperar 10 segundos que demora el establecimiento de la comunicación con protocolo de seguridad con las placas electrónicas.
+
+Finalmente en el software de Suplementar deberá activar el Modo Automático para que el equipo quede activo y suministre alimento con la configuración editada.
+
+Una vez realizados estos pasos debemos cerrar el programa AnyDesk para evitar el uso de datos móviles.
 
 Trabajando con el Software en nuestra computadora
 -------------------------------------------------
@@ -616,7 +633,6 @@ Debemos luego ir a la pantalla de gestión de archivos de AnyDesk haciendo click
    :width: 40
 
 Para transferir el archivo de base de datos desde nuestra computadora al Suplementador debemos seleccionar el archivo *comedero.db* en la lista de la izquierda (Computadora) y presionar en el botón Cargar:
-
 
 .. figure:: images/AnyDesk_Icono_Cargar.png
    :width: 140
