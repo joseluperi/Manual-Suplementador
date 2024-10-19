@@ -501,6 +501,108 @@ La información que se puede ver en la plataforma es la siguiente:
 A su vez la plataforma se puede configurar para que emita Alarmas, es decir mande un correo electrónico o un mensaje de texto en caso de que el nivel de carga de Tolva baje de cierto nivel, o baje el nivel 
 de carga de las baterías o si un determinado animal no entró en los últimos 2 días, entre otras situaciones.
 
+.. _Acostumbramiento:
+
+Proceso de Acostumbramiento
+===========================
+
+Antes de empezar el proceso de acostumbramiento, debemos colocar las Caravanas Electrónicas de los animales en la oreja del lado en que la maquina presenta la antena. 
+Es recomendable que todos los animales puedan ser identificados visualmente con su RP (registro particular u oficial).
+
+.. figure:: images/CaravanaFisicaElectronica.png
+   :width: 300
+   
+   Colocación de Carvana Física y Electrónica
+
+
+Para cargar los animales en la máquina es conveniente contar con una planilla con toda la información. Es conveniente también contar con uno o dos rollos de pastura para todo el proceso de aprendizaje. 
+El alimento a utilizar en el equipo debe ser palatable y no peligroso (sin aditivos), ya que en este periodo un animal puede ingerir más de lo programado. 
+
+.. figure:: images/PlanillaDeAnimales.png
+   :width: 400
+   
+   Planilla de Animales con Caravana Física y Electrónica
+
+
+Al proceso de acostumbramiento lo podemos dividir en tres etapas.
+
+Primer Etapa: Comprensión
+-------------------------
+
+
+* Finalidad: que los animales reconozcan el suplementador como una máquina que suministra comida. 
+* Objetivo: que todos los animales se acerquen y coman de la bandeja de alimentación sin miedo.
+* Tiempo para lograrlo: 1 a 2 día. 
+* Estado del equipo: sin rejas en un corral.
+* Dosificación: 	
+	* Cantidad de alimento: 1Kg a 1.5 Kg por animal. 
+	* Cantidad de Fracciones: 12
+	* Tiempo entre fracciones: 30 segundos 
+	* Tiempo de robo: 2 segundo (no interesa medir)
+	* Intervalos: 1
+
+Para esta primera etapa, necesitamos ubicar el equipo sin rejas en un corral pequeño (10 metros por 10 metros). 
+Una vez caravaneados e identificados los animales recomendamos encerrarlos y mantenerlos en ayudo por 12hs (toda una noche sin comer). 
+Al día siguiente largar de a 20 o 25 animales al corral junto al equipo (modo automático). Como los animales son curiosos y se encuentran hambreados van a buscar alimento, recomendamos colocar un poco de pasto (ej.: alfalfa) en las bocas como atrayente. Cuando el animal olfatea el pasto se va acercar a comer y al identificarlo la maquina suministrara una fracción de comida. Es posible que al comienzo el animal se asuste, pero rápidamente vuelve a ingresar a comer. En el trascurso del tiempo vamos a ver todos los animales peleándose por comer en las bocas de suplementación. 
+
+.. figure:: images/AnimalesAcostumbramiento.png
+   :width: 500
+   
+   Animales en proceso de Acostumbramiento 
+
+
+Luego de 3 horas de haber largado los animales nos dirigimos al equipo para observar el “Reporte”, Allí seleccionamos el rodeo en donde nuestros animales están cargados y el día actual. Observamos en la parte de “Adaptación” y tecleamos el numero verde de los animales adaptados. 
+
+
+.. figure:: images/AcostumbramientoTablaAdaptacion.png
+   :width: 450
+   
+   Tabla de Adaptación en Reporte
+
+
+Automáticamente accedemos a la lista de animales adaptados. Dichos animales han ingresado repetidamente a la máquina y se sobreentiende que comprendieron que allí hay comida, recomendamos sacar esos animales del corral y dejas los que todavía no están adaptados o en proceso de adaptación. De esta forma logramos achicar la cantidad de animales y que los más temerosos pierdan el miedo y se acerquen al equipo.
+Es necesario seguramente volver a colocar pasto en las bandejas e incentivar mediante una caminata suave a que los animales se acerquen al equipo. 
+Cuando quedan menos de 10 animales sin ingreso o no adaptados incorporamos nuevamente un conjunto de 20 en el caso de que el rodeo sea numeroso y repetimos nuevamente todo el proceso. Pasadas las 2 o 3 horas volvemos a mirar el reporte y continuamos sacando los animales adaptados e incentivando a ingresas aquellos que no lo hicieron.
+Para sacar animales adaptados del corral, también podemos usar el “Reporte Diario”, allí sabremos el porcentaje de alimentación suministrado, por lo que se consideraría adaptados aquellos con una alimentación superior al 80%. 
+Toda esta primera etapa de acostumbramiento puede llevar 8 horas de trabajo dependiendo del tamaño de la tropa. Recomendamos hacer adaptaciones de tropas de a 50 animales para facilitar el trabajo. Una vez que logramos que todos los animales entren al equipo, los dejamos encerrados en el corral con alimento a voluntad como puede ser un rollo para que sacien el hambre. 
+La primera noche del proceso podemos dejar todo el grupo de animales en contacto con la maquina ya que a partir de las 0 hs se autoriza nuevamente la suplementación. Al día siguiente vamos a tener un número importante que ya se alimentó durante la noche, una vez separados, seguimos trabajando con los que no entraron repitiendo el proceso inicial. 
+Cuando logramos que los animales ingresen durante dos días seguidos al equipo, podemos decir que han entendido que el suplementador suministra alimento. Este concepto no se olvida y tampoco debe alterarse en el futuro, por lo tanto, si los animales permanecen con el equipo deben recibir una ración de alimento, aunque sea pequeña. 
+
+Segunda etapa: Funcionamiento con rejas
+---------------------------------------
+
+Esta etapa es igual a la anterior, con la diferencia de que el equipo lleva puesta las rejas reguladas de acuerdo al tamaño de la tropa. La función de las rejas es que los animales no se roben comida entre si y puedan comer tranquilos sin ser molestados por los demás.
+
+* Objetivo: que todos los animales entren y coman de la bandeja de alimentación sin miedo.
+* Tiempo para lograrlo: 1 a 2 día. 
+* Estado del equipo: con rejas en un corral.
+* Dosificación: 	
+	* Cantidad de alimento: 1Kg a 1.5 Kg por animal. 
+	* Cantidad de Fracciones: 12
+	* Tiempo entre fracciones: 30 segundos 
+	* Tiempo de robo: 20 segundo.
+	* Intervalos: 1
+
+El primer día con rejas, podemos poner solo la reja central, generando una primera división entre las dos bocas. Una vez que los animales ingresaron repitiendo el modus operandi de la primera etapa, podemos colocar las rejas laterales y dejamos el equipo toda la noche con los animales. Al día siguiente separamos los que ya han ingresado con las rejas puestas y dejamos los temerosos. En esta etapa podemos seguir estimulando con pastura sobre la reja y bocas para que los animales miedosos ingresen. 
+
+.. figure:: images/AnimalesAcostumbramientoRejas.png
+   :width: 500
+   
+   Animales en proceso de Acostumbramiento con Rejas
+
+
+Hasta aquí solo han pasado 3 días de trabajo con la máquina, recomendamos dejar los animales en corral o un piquete más grande con acceso a rollo y al equipo se suplementación, sobre todo para reforzar el aprendizaje en aquellos más temerosos. 
+Luego de esta etapa ya estamos en condiciones de largar el rodeo sobre una pastura y colocar el suplementador en un lugar accesible, ejemplo cerca de una aguada. 
+
+Tercera etapa: Jerarquización
+-----------------------------
+
+Como en toda manada de animales, existen los dominantes, los agresivos, los temerosos y los sumisos; el vacuno no escapa esta característica. 
+Generalmente en los procesos de suplementación suministramos un alimento de manera restrictiva, es decir que el animal desearía comer más, pero por razones nutricionales y/o económicas no lo permitimos. Esto conlleva a que en el rodeo haya competencia y tensiones por ingresar al equipo de suplementación; dicho comportamiento tiende a normalizar con el paso del tiempo estableciendo una jerarquización de la manda. Generalmente luego de 15 días se estabiliza y disminuyen los robos. 
+En esta etapa nos dedicamos a controlar la alimentación y suplementación en el lote, en caso de ser necesario podemos retornar una tarde el equipo al corral y dejar encerrados aquellos animales que no estén ingresando durante toda una noche; sin alterar la alimentación del resto del rodeo. 
+Es importante no perturbar la tropa, cada nueva incorporación tiende a desestabilizar el statu quo y vuelve a llevar unos días hasta que se estabiliza el rodeo. 
+
+
 
 .. _manejoRemoto:
 
